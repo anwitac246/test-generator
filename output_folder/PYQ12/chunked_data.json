@@ -1,0 +1,1591 @@
+[
+    {
+        "type": "text",
+        "content": "  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  ",
+        "context": ""
+    },
+    {
+        "type": "text",
+        "content": "Solutions to JEE(Main) -2024    Test Date: 6th April 2024 (First Shift)           MATHEMATICS, PHYSICS & CHEMISTRY      Paper \u2013 1       Time Allotted: 3 Hours              Maximum Marks: 300    \uf0a7  Please read the instructions carefully. You are allotted 5 minutes specifically for this  purpose.  Important Instructions:      1.  The test is of 3 hours duration.   2.  This test paper consists of 90 questions. Each subject (MPC) has 30 questions. The  maximum marks are 300.   3.  This question paper contains three parts. Part-A is Mathematics, Part-B is Physics and  Part-C is Chemistry. Each part has only two sections: Section-A and Section-B.  4.      Section \u2013 A : Attempt all questions.  5.  Section \u2013 B : Do any 5 questions out of 10 Questions.  6.   Section-A (01 \u2013 20, 31 \u2013 50, 61 \u2013 80) contains 60 multiple choice questions which have  only one correct answer. Each question carries +4 marks for correct answer and \u20131  mark for wrong answer.    7.  Section-B (21 \u2013 30, 51 \u2013 60, 81 \u2013 90) contains 30 Numerical based questions. The  answer to each question is rounded off to the nearest integer value. Each question carries  +4 marks for correct answer and \u20131 mark for wrong answer.          Note: For the benefit of the students, specially the aspiring ones, the question of  JEE(Main), 2024 are also given in this booklet. Keeping the interest of students  studying in class XI, the questions based on topics from class XI have been  marked with \u2018*\u2019, which can be attempted as a test.    JEE-MAIN-2024 (6th April-First Shift)-MPC-2  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  PART \u2013 A (MATHEMATICS)  ",
+        "context": "FIITJEE (Page 1)"
+    },
+    {
+        "type": "text",
+        "content": "  (One Options Correct Type)    This section contains 20 multiple choice questions. Each question has four choices (1), (2), (3) and  (4), out of which ONLY ONE option is correct.     Q1.  Let y = y(x) be the solution of the differential equation    e e dy 3 (2xlog x) 2y log x, x 0 dx x \uf02b \uf03d \uf03e  and y(e\u20131) = 0. Then, y(e) is equal to    (A)  3 2e \uf02d   (B)  2 3e \uf02d     (C)  3 e \uf02d   (D)   2 e \uf02d   Ans.  C  Sol.  \uf02b \uf03d dy 3 2xlnx 2y lnx dx x     \uf0de \uf02b \uf03d 2 dy y 3 dx xlnx 2x   \u2026..(1)    \uf0f2 \uf03d \uf03d \uf03d dx ln(lnx) xlnx I.F.  e e lnx     \uf03d\uf0f2 2 3 lnx ylnx dx 2 x     Put,  \uf03d \uf0de \uf03d \uf0de \uf03d t t lnx t x e dx e dt     \uf02d \uf0de \uf03d \uf03d \uf0f2 \uf0f2 t t 2t 3 te dt 3 ylnx te dt 2 2 e     \uf02d \uf02d \uf0e9 \uf0f9 \uf03d \uf02d \uf02b \uf0eb \uf0fb \uf0f2 t t 3 ylnx te e dt 2     \uf02d \uf02d \uf0e9 \uf0f9 \uf03d \uf02d \uf02d \uf02b \uf0eb \uf0fb t t 3 te e c 2     \uf0e9 \uf0f9 \uf05c \uf03d \uf02d \uf02d \uf02b \uf0ea \uf0fa \uf0eb \uf0fb 3 lnx 1 ylnx c 2 x x     \uf0e6 \uf0f6\uf03d \uf0e7 \uf0f7 \uf0e8 \uf0f8 1 y 0 e     \uf0e9 \uf0f9 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0ea \uf0fa \uf0e8 \uf0f8 \uf0ea \uf0fa \uf0de \uf02d \uf02d \uf02b \uf03d \uf0de \uf03d \uf0e6 \uf0f6 \uf0ea \uf0fa \uf0e7 \uf0f7 \uf0ea \uf0fa \uf0e8 \uf0f8 \uf0eb \uf0fb 1 ln 3 e e c 0 c 0 1 2 e     \uf02b \uf0e6 \uf0f6 \uf03d\uf02d \uf0e7 \uf0f7 \uf0e8 \uf0f8 3 lnx 1 ylnx 2 x     For x = e    \uf03d\uf02d3 y e        JEE-MAIN-2024 (6th April-First Shift)-MPC-3  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Q2.  Let C be the circle of minimum area touching the parabola y= 6 \u2013 x2 and the lines y 3 | x | \uf03d .  Then, which one of the following points lies on the circle C?    (A) (2, 4)  (B) (1, 2)    (C) (1, 1)  (D) (2, 2)  Ans.  A  Sol.  Eqn. of parabola    y = 6 \u2013 x2          \u2026..(1)    Eqn. of circle    X2 + (y \u2013 2r)2 = r2      \u2026..(2)    \uf0b0 \uf03d \uf03d \uf0de \uf03d \uf03d\uf062 r sin30 1/ 2 ",
+        "context": "SECTION - A (Page 2)"
+    },
+    {
+        "type": "text",
+        "content": "2r ",
+        "context": "OC (Page 3)"
+    },
+    {
+        "type": "text",
+        "content": "    Again OQ = 2r + r = 6 \uf0de  r = 2    \uf05c Eqn. of circle is x2 + (y \u2013 4)2 = 4    (2, 4)  lies on the circle       Q C r P O 30\u00b0 \uf03d \uf02d 2 y 6 x     Q3.  A company has to plants A and B to manufacture motorcycles. 60% motorcycles are  manufactured at plant A and the remaining are manufactured at plant B. 80% of the motorcycles  manufactured at plant A are rated of the standard quality, while 90% of the motorcycles  manufactured at plant B are rated of the standard quality. A motorcycle picked up randomly from  the total production is found to be of the standard quality. If p is the probability that it was  manufactured at plant B, then 126p is    (A) 64  (B) 56    (C) 66  (D) 54  Ans.  D  Sol.  E : Event that a motorcycle is standard quality    Given  \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf03d \uf03d \uf03d \uf03d \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e8 \uf0f8 E 80 8 E 90 9 P P A 100 10 B 100 10     \uf03d \uf03d \uf03d \uf03d 60 6 40 4 P(A) ,P(B) 100 10 100 10     \uf028 \uf029 \uf0b4 \uf0e6 \uf0f6\uf03d \uf0e7 \uf0f7 \uf0b4 \uf02b \uf0b4 \uf0e8 \uf0f8 B P(B) P(E / B) ",
+        "context": "OC (Page 3)"
+    },
+    {
+        "type": "text",
+        "content": "P(A) P(E / A) P(B) P E / B     \uf0b4 \uf0de \uf03d \uf03d \uf03d \uf02b \uf0b4 \uf02b \uf0b4 4 9 36 3 10 10 p 6 8 4 9 48 36 7 10 10 10 10     \uf05c \uf03d \uf0b4 \uf03d 3 126p 126 54 7     Q4.  Let A {n [100, 700] N : n \uf03d \uf0ce \uf0c7  is neither a multiple of 3 nor a multiple of 4}. Then the number of  elements in A is    (A) 310  (B) 290    (C) 280  (D) 300  Ans.  D  Sol.  \uf03d \uf03d 600 n(3) 200 3     \uf03d \uf03d 680 n(4) 150 4     \uf03d \uf03d 600 n(12) 50 12     \uf0c8 \uf03d \uf02b \uf02d n(3 4) n(3) n(4) n(12)    JEE-MAIN-2024 (6th April-First Shift)-MPC-4  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.                \uf03d \uf02b \uf02d \uf03d 200 150 50 350     \uf05c N (A) = 300    Q5.  Let a variable line of slope m > 0 passing through the point (4, \u20139) intersect the coordinate axes  at the points A and B. The minimum value of the sum of the distances of A and B from the origin  is    (A) 30  (B) 10    (C) 25  (D) 15  Ans.  C  Sol.  Equation of line    y + 9 = m (x \u2013 4)    Cuts x axis at  \uf0e6 \uf0f6 \uf02b \uf0e7 \uf0f7 \uf0e8 \uf0f8 9 ",
+        "context": "P E (Page 3)"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_7_img_1.png",
+        "page_no": 7,
+        "context": "A 4 7: Image 1"
+    },
+    {
+        "type": "text",
+        "content": ",0 m     Cuts y axis at B (0, \u20134m \u2013 9)    \uf05c \uf02b \uf03d \uf02b \uf02b \uf02b \uf03e 9 | OA | | OB | 4 4m 9  as m 0 m     \uf03d \uf02b \uf02b \uf0b3 \uf02b \uf0b4 \uf03d ( (GM) AM) 9 13 13 2 4m 25 m 9 4m m     Q6.  If  3 1 x sin , x 0 f(x) , then x 0 ,x 0 \uf0ec \uf0e6 \uf0f6 \uf0b9 \uf0ef \uf0e7 \uf0f7 \uf03d \uf0e8 \uf0f8 \uf0ed \uf0ef \uf03d \uf0ee     (A)  2 2 24 f \" 2 \uf02d\uf070 \uf0e6 \uf0f6\uf03d \uf0e7 \uf0f7 \uf070 \uf070 \uf0e8 \uf0f8   (B) f\"(0) = 0    (C) f\"(0) = 1  (D)  2 2 12 f \" 2 \uf02d\uf070 \uf0e6 \uf0f6\uf03d \uf0e7 \uf0f7 \uf070 \uf070 \uf0e8 \uf0f8   Ans.  A  Sol.  \uf0e9 \uf0b9 \uf0ea \uf03d\uf0ea \uf03d \uf0ea\uf0eb 3 1 x sin , x 0 f(x) x 0, x 0     \uf03d \uf02d 2 1 1 f '(x) 3x sin xcos x x     \uf03d \uf02d \uf02d 1 1 1 1 f \"(x) 6x sin 4cos sin x x x x     \uf070 \uf02d\uf070 \uf0e6 \uf0f6\uf03d \uf02d \uf03d \uf0e7 \uf0f7 \uf070 \uf070 \uf070 \uf0e8 \uf0f8 2 2 12 24 f \" 2 2     Q7.  A circle is inscribed in an equilateral triangle of side of length 12. If the area and perimeter of any  square inscribed in this circle are m and n, respectively, then m + n2 is equal to    (A) 312  (B) 408    (C) 396  (D) 414  Ans.  C   JEE-MAIN-2024 (6th April-First Shift)-MPC-5  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  area of \uf044\uf03d 2 3 (12) 4     \uf03d36 3     2s = 36 \uf0de s = 18    \uf044 \uf03d \uf03d36 3 r s 18     \uf03d r 2 3     Side length of  square  \uf0de \uf03d \uf03d a 2a 2r 4 3     \uf0de \uf03d a 2 6      perimeter  \uf03d 4a 8 6     Area = 24      m2 + n2 = 408    A  B  C     Q8.  Let y = y(x) be the solution of the differential equation \uf028 \uf029 1 2 tan x dy 1 x y e , dx \uf02d \uf02b \uf02b \uf03d  y(1) = 0. Then y (0)  is    (A) \uf028 \uf029 /2 1 e 1 4 \uf070 \uf02d   (B) \uf028 \uf029 /2 1 1 e 2 \uf070 \uf02d     (C) \uf028 \uf029 /2 1 e 1 2 \uf070 \uf02d   (D)  \uf028 \uf029 /2 1 1 e 4 \uf070 \uf02d   Ans.  B  Sol.  \uf02d \uf02b \uf03d \uf02b \uf02b 1 tan x 2 2 dy y e dx 1 x 1 x     I.F.  \uf02d \uf02b \uf0f2 \uf03d \uf03d 2 1 dx tan x 1 x e e     Sol.  \uf028 \uf029 \uf02d \uf02d \uf03d \uf02b \uf0f2 1 1 2 tan x tan x 2 e ye dx 1 x     \uf02d \uf02d \uf0de \uf03d \uf02b 1 1 2tan x tan x e ye c 2     \uf070 \uf070 \uf03d \uf0de \uf03d \uf02b \uf0de \uf03d\uf02d /2 /2 e e y(1) 0 0 c c 2 2     \uf02d \uf02d \uf070 \uf03d \uf02d 1 1 2 tan x tan x /2 e 1 ye e 2 2     \uf070 \uf0de \uf03d \uf02d 0 0 /2 e 1 y(0) ye e 2 2     Q9.  For , R \uf061\uf062\uf0ce  and a natural number n, let  2 2 r n r 1 2 A 2r 2 n n(3n 1) 3r 2 3 2 \uf02b\uf061 \uf03d \uf02d\uf062 \uf02d \uf02d . Then 2A10 \u2013 A8 is    (A) 2\uf061 + 4\uf062  (B) 2n    (C) 0  (D) 4\uf061 + \uf032\uf062   Ans.  D   JEE-MAIN-2024 (6th April-First Shift)-MPC-6  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.   \uf02d \uf02b\uf061 \uf02d \uf03d \uf02d \uf02d\uf062 \uf02d \uf02d 2 2 10 8 n 20 8 1 2 2A A 40 16 2 n n(3n 1) 56 22 3 2     \uf02b\uf061 \uf02b\uf061 \uf03d \uf02d\uf062 \uf03d \uf02d\uf062 \uf02d \uf02d \uf02d 2 2 2 2 n n 12 1 0 1 2 2 24 2 n 0 2 n n(3n 1) n(3n 1) 34 3 2 3 2 2     \uf0e9 \uf0f9 \uf02d \uf02d\uf062\uf02d \uf02d\uf061\uf03d \uf061\uf02b\uf062 \uf0eb \uf0fb 2 2 2 n n 2 4 2       Q10.  The mean and standard deviation of 20 observations are found to be 10 and 2, respectively. On  rechecking, it was found that an observation by mistake was taken 8 instead of 12. The correct  standard deviation is    (A)  3.86   (B) 1.94    (C)  3.96   (D)  1.8  Ans.  C  Sol.  \uf03d \uf03d \uf0e5 ix x 10 20     \uf05c \uf03d \uf0e5 ix 200     Correct  \uf03d \uf0e5 ix 204     Correct mean  \uf03d \uf03d 204 x 10.2 20     \u2026..(1)    \uf02d \uf03d \uf0e5 2 2 i 1 x (10) 4 20     \uf0de \uf03d \uf0b4 \uf0e5 2 ix 104 20     Correct  \uf03d \uf0b4 \uf02b \uf02d \uf0e5 2 ix 104 20 (144 64)     = 104 \u00d7 10 + 80    = 16 (26 \u00d7 5 + 5)    = 16 \u00d7 135    \uf05c New variance     \uf0e6 \uf0f6 \uf03d \uf0b4 \uf02d\uf0e7 \uf0f7 \uf0e8 \uf073 \uf0f8 2 2 new  1 204 (16 135) 20 20     \uf0b4 \uf0e9 \uf0f9 \uf03d \uf0b4 \uf02d \uf0ea \uf0fa \uf0eb \uf0fb 1 204 20 16 135 20 20     \uf0b4 \uf0e9 \uf0f9 \uf03d \uf0b4 \uf02d \uf0ea \uf0fa \uf0eb \uf0fb 1 51 51 4 135 5 5 \uf03d \uf0b4 \uf02d \uf03d 1 99 [135 20 2601] 25 25     \uf05c\uf073 \uf03d new  3.96     Q11.  \uf028 \uf029 /4 2 2 2 3 3 0 cos x sin x dx cos x sin x \uf070 \uf02b \uf0f2  is equal to     (A) 1/3  (B) 1/9    (C) 1/6  (D) 1/12  Ans.  C   JEE-MAIN-2024 (6th April-First Shift)-MPC-7  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  \uf028 \uf029 \uf070 \uf03d \uf02b \uf0f2 2 2 4 2 0 3 tan x\u00b7sec x dx I 1 tan x     Put \uf02b \uf03d \uf0de \uf03d 3 2 2 1 tan x t 3tan x sec xdx dt   x  0 \uf020\uf070/4  t  1 2    \uf03d \uf03d\uf02d \uf0b4 \uf0f2 \uf0f2 2 2 2 1 1 1 dt 1 1 I 3 3 t t     \uf0e9 \uf0f9 \uf03d\uf02d \uf02d \uf03d \uf0ea \uf0fa \uf0eb \uf0fb 1 1 1 1 3 2 6     Q12.  Let the area of the region enclosed by the curves y = 3x, 2y = 27 \u2013 3x  and y = 3x \u2013 x x  be A.  Then 10A is equal to    (A) 184  (B) 172    (C) 154  (D) 162  Ans.  D  Sol.  Required area    \uf02d \uf0e9 \uf0f9 \uf03d \uf02d \uf02d \uf02b \uf02d\uf02d \uf0ea \uf0fa \uf0eb \uf0fb \uf0f2 \uf0f2 3 9 0 3 27 3x A [3x (3x x x)]dx ( x x) dx 2   \uf0de \uf03d \uf05c \uf03d 81 A 10A 162 5     x y=3x x=4  (9,0) y (0,0)   Q13.  Let the relations R1 and R2 on the set X = {1, 2, 3,\u2026..20} be given by R1 = {(x, y) :   2x \u2013 3y =2} and R2 = {(x, y): \u20135x + 4y = 0}. If M and N be the minimum number of elements  required to be added in R1 and R2, respectively, in order to make the relations symmetric, then  M+N equals    (A) 12  (B) 8    (C) 16  (D) 10  Ans.  D  Sol.  X = { 1, 2, 3, \u2026.., 20}    R1 = {(x, y) : 2x \u2013 3y = 2}      = {(4, 2). (7, 4), (10, 6) (13, 8), (16, 10), (19, 20)}    R2 = {(x, y) : \u20135x + 4y = 0}      = {(4, 5), (8, 10), (12, 15), (16, 20)}    to make R1 symmetric it need 6 elements    to make R2 symmetric it need 4 elements    \uf05c m + n = 10    Q14.  The interval in which the function f(x) = xx, x > 0, is strictly increasing is    (A)  1 0, e \uf0e6 \uf0f9 \uf0e7 \uf0fa \uf0e8 \uf0fb   (B)  2 1 ,1 e \uf0e9 \uf0f6 \uf0f7 \uf0ea\uf0eb \uf0f8     (C) 1, e \uf0e9 \uf0f6 \uf0a5\uf0f7 \uf0ea\uf0eb \uf0f8   (D) (0, ) \uf0a5  Ans.  C  Sol.  \uf03d \uf03d x xlnx f(x) x e    JEE-MAIN-2024 (6th April-First Shift)-MPC-8  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    \uf0a2 \uf03d \uf02b \uf03d \uf02b xlnx x f (x) e (lnx 1) x (1 lnx)     \uf0a2 \uf03e \uf0de \uf02b \uf03e \uf0de \uf03e f (x) 0 1 lnx 0 lnx 1    \uf0de \uf03e x 1/ e     Q15.  The function  2 2 x 2x 15 f(x) ,x R x 4x 9 \uf02b \uf02d \uf03d \uf0ce \uf02d \uf02b  is    (A) neither one-one nor onto  (B) one-one but not onto    (C) both one-one and onto  (D) onto but not one-one  Ans.  A  Sol.  \uf02b \uf02d \uf03d \uf02d \uf02b 2 (x 5)(x 3) f(x) x 4x 9     f(\u20135) = 0,   f(3) = 0    \uf05c f(x) is many one    \uf02b \uf02d \uf03d \uf02d \uf02b 2 2 x 2x 15 y x 4x 9     \uf028 \uf029 \uf0de \uf02d \uf02b \uf03d \uf02b \uf02d 2 2 y x 4x 9 x 2x 15     \uf0de \uf02d \uf02d \uf02b \uf02b \uf02b \uf03d 2 (y 1)x 2x(1 2y) 9y 15 0     \uf0ce \uf0de \uf0b3 x R D 0     \uf0de \uf02b \uf02d \uf02d \uf02b \uf0a3 2 (1 2y) (y 1)(9y 15) 0     \uf0de \uf02d \uf02d \uf02b \uf0a3 2 5y 2y 16 0     \uf0de \uf02b \uf02d \uf0b3 2 5y 2y 16 0     \uf0de \uf02d \uf02b \uf0b3 (5y 8)(y 2) 0     \uf0ce y [2, 8 / 5]     \uf05c f(x) is neither one-one nor onto    Q16.  The shortest distance between the line x 3 y 15 z 9 2 7 5 \uf02d \uf02b \uf02d \uf03d \uf03d \uf02d  and x 1 y 1 z 9 2 1 3 \uf02b \uf02d \uf02d \uf03d \uf03d\uf02d  is    (A) 6 3   (B) 8 3     (C) 5 3   (D) 4 3   Ans.  D  Sol.  \uf02d \uf02b \uf02d \uf03d \uf03d \uf0de \uf03d \uf02d \uf02b \uf02b\uf06c \uf02d \uf02b \uf02d \uf072 x 3 y 15 z 9 \u02c6 \u02c6 \u02c6 r (3i 15j 9k) (2i 7j 5k) 2 7 5     \uf02b \uf02d \uf02d \uf03d \uf03d \uf0de \uf03d\uf02d\uf02b\uf02b \uf02b\uf06d \uf02b\uf02d \uf02d \uf072 x 1 y 1 z 9 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 r ( i j 9k) (2i j 3k) 2 1 3     \uf03d \uf02d \uf02b \uf072 \u02c6 \u02c6 \u02c6 b 2i 7j 5k     \uf03d \uf02b\uf02d \uf072 \u02c6 \u02c6 \u02c6 d 2i j 3k     \uf0b4 \uf03d \uf02d \uf02d \uf072 \uf072 \u02c6 \u02c6 \u02c6 i j k b d 2 7 5 2 1 3     \uf03d \uf02b\uf02b \u02c6 \u02c6 \u02c6 16(i j k)     \uf03d\uf02d \uf02b \uf075\uf075\uf075\uf072 \u02c6 \u02c6 ",
+        "context": "A 4 (Page 4)"
+    },
+    {
+        "type": "text",
+        "content": "4i 16j     \uf0b4 \uf02d \uf02b \uf02d\uf02b \uf0de \uf03d \uf03d \uf03d \uf0b4 \uf072 \uf072 \uf075\uf075\uf075\uf072 \uf072 \uf072 b d 64 256 4 16 AC\u00b7 4 3 | b d | 16 3 3      JEE-MAIN-2024 (6th April-First Shift)-MPC-9  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Q17.  Let \uf061\uf02c\uf020\uf062 be the distinct roots of the equation x2 \u2013(t2 \u2013 5t + 6) x + 1 = 0, t R \uf0ce  and  n n n a \uf03d\uf061\uf02b\uf062.  Then the minimum value of  2023 2025 2024 a a a \uf02b  is    (A) 1/4  (B) 1/2     (C) \u20131/4  (D) \u20131/2  Ans.  D  Sol.  \uf061\uf02b\uf062\uf03d \uf02d \uf02b \uf061\uf062\uf03d 2t 5t 6 1    \uf02b \uf061 \uf02b\uf062 \uf02b\uf061 \uf02b\uf062 \uf03d \uf061 \uf02b\uf062 2023 2023 2025 2025 2023 2025 2024 2024 2024 a a a     \uf028 \uf029 \uf028 \uf029 \uf061 \uf061\uf02b \uf02b\uf062 \uf062\uf02b \uf03d \uf061 \uf02b\uf062 2023 2 2023 2 2024 2024 1 1     \uf028 \uf029 \uf028 \uf029 \uf061 \uf02d \uf02b \uf061\uf02b\uf062 \uf02d \uf02b \uf062 \uf03d \uf061 \uf02b\uf062 2023 2 2023 2 2024 2024 t 5t 6 t 5t 6     \uf02d \uf03d \uf02d \uf02b \uf0b3\uf02d \uf03d\uf02d 2 25 24 t 5t 6 1/ 2 2     Q18.  The number of triangles whose vertices are at the vertices of a regular octagon but none of  whose sides is a side of the octagon is    (A) 48  (B) 56    (C) 24  (D) 16  Ans.  D  Sol.  no. of vertices = 8    one vertex can be selected in 8C1 ways    rest two vertices can be selected in 4C2 ways    Required no. of triangles =   \uf0b4 8 4 1 1 C C 3! 2!   \uf0b4 \uf03d \uf03d 8 6 16 3     Q19.  Let f : ( , ) {0} R \uf02d\uf0a5\uf0a5\uf02d \uf0ae  be a differentiable function such that  2 a 1 f '(1) lim a f a \uf0ae\uf0a5 \uf0e6 \uf0f6 \uf03d \uf0e7 \uf0f7 \uf0e8 \uf0f8 . Then  1 2 e a a(a 1) 1 lim tan a 2log a 2 a \uf02d \uf0ae\uf0a5 \uf02b \uf0e6 \uf0f6\uf02b \uf02d \uf0e7 \uf0f7 \uf0e8 \uf0f8  is equal to    (A) 3 8 4 \uf070 \uf02b   (B) 3 2 4 \uf070 \uf02b     (C) 5 2 8 \uf070 \uf02b   (D)  3 4 8 \uf070 \uf02b   Ans.  C  Sol.  \uf02d \uf0ae\uf0a5 \uf02b \uf02b \uf02d 1 2 a e a a(a 1) 1 lim tan a 2log 2 a     \uf0ae \uf02d \uf0a5 \uf0e9 \uf0f9 \uf0e6 \uf0f6 \uf02b \uf02b\uf02b \uf0e7 \uf03d \uf0f7 \uf0ea \uf0fa \uf0e8 \uf0f8 \uf0eb \uf0fb 2 2 1 a 1 1 1 2 1 lim a 1 tan 1 log 2 a a a a     \uf02d \uf05c \uf03d \uf02b \uf02b\uf02b 2 1 1 f(x) (1 x)tan x 1 2x 2   lnx     \uf0a2 \uf02d \uf02b \uf0e9 \uf0f9 \uf03d \uf02b \uf02b \uf02b \uf0ea \uf0fa \uf02b \uf0eb \uf0fb 1 2 1 1 x f (x) tan x 4xlnx 2x 2 1 x     \uf0a2 \uf070 \uf070 \uf0e9 \uf0f9 \uf03d \uf02b \uf02b \uf03d \uf02b \uf0ea \uf0fa \uf0eb \uf0fb 1 5 f (1) 1 2 2 4 8 2    JEE-MAIN-2024 (6th April-First Shift)-MPC-10  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Q20.  If A(3, 1, \u20131).  5 7 1 B , , 3 3 3 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 , C(2, 2, 1) and  10 2 1 D , , 3 3 3 \uf02d \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8  are the vertices of a quadrilateral ABCD,  then its area is    (A) 4 2 3   (B) 2 2 3     (C) 2 2   (D)  5 2 3   Ans.  A  Sol.  \uf03d\uf02d\uf02b\uf02b \uf075\uf075\uf075\uf072 \u02c6 \u02c6 \u02c6 ",
+        "context": "AC (Page 8)"
+    },
+    {
+        "type": "text",
+        "content": "i j 2k     \uf03d \uf02d \uf02d \uf075\uf075\uf075\uf072 5 5 2 \u02c6 \u02c6 \u02c6 ",
+        "context": "AC (Page 10)"
+    },
+    {
+        "type": "text",
+        "content": "i j k 3 3 3     \uf03d \uf0b4 \uf03d \uf075\uf075\uf075\uf072 \uf075\uf075\uf075\uf072 1 4 2 Area | AC BD | 2 3     A B C D     ",
+        "context": "BD (Page 10)"
+    },
+    {
+        "type": "text",
+        "content": "  (Numerical Answer Type)    This section contains 10 Numerical based questions. The answer to each question is rounded off to the  nearest integer value.    Q21.  Let the first term of a series be T1 = 6 and its rth term Tr = 3Tr\u20131 + 6r, r = 2, 3, \u2026..,n. If the sum of  the first n terms of this series is \uf028 \uf029\uf028 \uf029 2 n n 1 n 12n 39 4.6 5.3 1 5 \uf02d \uf02b \uf02d \uf02b , then n is equal to_____.  Ans.   6  Sol.  T1 = 6    T2 = 3.6 + 62    T3 = 3[3.6 + 62] + 63 = 32.6 + 3.62 + 63    T4 = 3[32.6 + 3.62 + 63] + 64 = 33.6 + 3262 + 3.62 + 64\u2026\u2026..    Tn = 3n\u20131 6 + 3n\u20132 62 + \u2026..+3.6n-2 + 6n-1 + 6n      = 3n-1,6 [1 + 2 + 22 + \u2026..2n-2 + 2n-1]      = 3n-1.6 (2n -1) = 2(6n \u2013 3n)      \uf0e9 \uf0f9 \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf02d \uf02d \uf03d \uf02d \uf0ea \uf0fa \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e8 \uf0f8 \uf0eb \uf0fb n n n 6 1 3 1 T 2 6 3 5 2       \uf028 \uf029 \uf028 \uf029 \uf03d \uf0b4 \uf02d \uf02d \uf02d n n 3 4 6 1 3 3 1 5       \uf028 \uf0e9 \uf0f9 \uf03d \uf02d \uf02d \uf02d \uf0fb \uf0eb n n 3 4.6 4 5 3 1) 5       \uf0e9 \uf0f9 \uf03d \uf02d \uf02b \uf0eb \uf0fb n n 3 4.6 5.3 1 5       \uf05c \uf02d \uf02b \uf03d 2 n 12n 39 3       \uf0de \uf02d \uf02b \uf03d 2 n 12n 36 0       \uf0de \uf03d n 6     Q22.  If the second, third and fourth terms in the expansion of (x + y)n are 135, 30 and 10 3 . respectively,  then 6(n3 + x2 + y) is equal to_____.  Ans.   806   JEE-MAIN-2024 (6th April-First Shift)-MPC-11  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  nC1 xn-1 y = 135  \u2026(1)    nC2  xn-2 y2 = 30  \u2026 (2)    nC3 xn-3 y3 = 10 3   \u2026(3)    (1) \uf0b8 (2)   \uf03d \uf02d nx 135 n(n 1) 30 y 2     \uf0de \uf03d \uf02d 2x 27 (n 1)y 6   \u2026(4)    (2) \uf0b8 (3)    \uf02d \uf03d \uf02d \uf02d n(n 1) x 30 2 n(n 1)(n 2) 10 / 3 y 6     \uf0de \uf03d \uf02d 3x 9 (n 2)y   \u2026(5)    Solving we get n = 5      x = 3     y = 1/3    \uf05c 6 (n3 + x2 + y) = 6 \u00d7 125 + 6 \u00d7 9 + 2    = 806    Q23.  Let x1, x2, x3, x4 be the solution of the equation 4x4 + 8x3 \u2013 17x2 \u2013 12x + 9 = 0 and  \uf028 \uf029\uf028 \uf029\uf028 \uf029\uf028 \uf029 2 2 2 2 1 2 3 4 125 4 x 4 x 4 x 4 x m 16 \uf02b \uf02b \uf02b \uf02b \uf03d . Then the value of m is_____.  Ans.   221  Sol.  y = 4 + x2    \uf0de \uf03d \uf02d  x y 4  is a solution of      4x4 + 8x3 \u2013 17x2 \u2013 12x + 9 = 0    \uf0de \uf02d \uf02b \uf02d \uf02d \uf02d \uf02d \uf02d \uf02b \uf03d 2 3/2 1/2 4(y 4) 8(y 4) 17(y 4) 12(y 4) 9   0     \uf028 \uf029 \uf0de \uf02d \uf02b \uf02d \uf02d \uf02b \uf02d \uf02d \uf02d 2 1/2 4 y 8y 16 17(y 4) 92(y 4) [12 8(y   4)]     \uf0de \uf02d \uf02b \uf03d \uf02d \uf02d 2 1/2 4y 49y 141 (y 4) [44   8y]     Requiring     \uf0e9 \uf0f9 \uf0de \uf02d \uf02b \uf03d \uf02d \uf02d \uf0eb \uf0fb 2 2 2 4y 49y 141 (y 4)(8y 44)     \uf028 \uf029\uf028 \uf029\uf028 \uf029\uf028 \uf029 \uf05c \uf02b \uf02b \uf02b \uf02b 2 2 2 2 1 2 3 4 4 x 4 x 4 x 4 x     \uf02b \uf0b4 \uf03d \uf03d 2 2 4 constant term  (141) (44) 4  coefficientof y 16     \uf03d125m 16     \uf0de \uf03d m 221    4x4 + 8x3 \u2013 17x2 \u2013 12x + 9 = 4 (x \u2013 x1) (x \u2013 x2) (x \u2013 x3) (x \u2013 x4)    Put x = 2i and x = \u20132i then multiply.    Q24.  Let L1, L2 be the lines passing through the point P(0, 1) and touching the parabola   9x2 + 12x + 18y \u2013 14 = 0. Let Q and R be the points on the lines L1 and L2 such that the  ",
+        "context": "SECTION - B (Page 10)"
+    },
+    {
+        "type": "text",
+        "content": "\uf044  is  an isosceles triangle with base QR. If the slopes of the lines QR are m1 and m2, then  \uf028 \uf029 2 2 1 2 16 m m \uf02b  is equal to_____.  Ans.   68     JEE-MAIN-2024 (6th April-First Shift)-MPC-12  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  9x2 + 12x + 4 = \u2013 18 (y \u2013 1)    \uf0e6 \uf0f6 \uf0de \uf02b \uf03d\uf02d \uf02d \uf0e7 \uf0f7 \uf0e8 \uf0f8 2 2 x 2(y 1) 3     Eqn. of tangents to  \uf02b \uf03d\uf02d \uf02d 2 (x 2 / 3) 2(y 1)     \uf0e6 \uf0f6 \uf02b \uf03d \uf02d \uf02d \uf0e7 \uf0f7 \uf0e8 \uf0f8 2 1 x m (y 1) 3 2m     Passes  \uf0de \uf03d\uf02d \uf0de \uf03d\uf02d 2 1 3 (0,1) m 3 2m 4     Scope of  \uf03d \uf03d\uf02d 2 1 4 L m 3   ",
+        "context": "PQR (Page 11)"
+    },
+    {
+        "type": "text",
+        "content": "Q  Y  x  ",
+        "context": "L1 (Page 12)"
+    },
+    {
+        "type": "text",
+        "content": "R  (0, 1)  (\u20132/3, 1)   Eqn. L1 : y = 1   \u2026(1)    Eqn. L2 : y \u2013 1 = \uf03d\uf02d1 x 3  \uf0de \uf02b \uf03d 4x 3y 3         \u2026(2)    Eqn. of angle bisectors between (1) & (2)    \uf02d \uf02b \uf02d \uf03d\uf0b1 \uf02b y 1 (4x 3y 3) 1 16 9     \uf02d\uf03d\uf0b1 \uf02b \uf02d 5y 1 (4x 3y 3)    \uf028 \uf029 \uf0e6 \uf0f6 \uf03d \uf03d \uf05c \uf02b \uf03d \uf02b \uf03d \uf0e7 \uf0f7 \uf0e8 \uf0f8 2 2 1 2 1 2 2 m 2, m 1/ 2 76 m m 16 4 68 4     Q25.  Let  \uf028 \uf029 \uf028 \uf029 1 k 7 0 k 1 k 1 7 0 1 x dx r , 1 x dx \uf02b \uf02d \uf03d \uf02d \uf0f2 \uf0f2  k N \uf0ce . Then the value of  \uf028 \uf029 10 k 1 k 1 7 r 1 \uf03d \uf02d \uf0e5  is equal to _____.  Ans.   65  Sol.  \uf028 \uf029 \uf03d \uf02d \uf0f2 1 k 7 k 0 I 1 x dx     \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 \uf02d \uf03d \uf02d \uf02d \uf02d \uf02d \uf0f2 \uf0f2 1 k k 1 7 7 1 0 6 0 x 1 x k 1 x 7x xdx     \uf028 \uf029 \uf02d \uf03d \uf02d \uf0f2 1 k 1 7 7 0 7k 1 x x dx     \uf028 \uf029 \uf07b \uf07d\uf028 \uf029 \uf02d \uf03d \uf02d \uf02d \uf02d \uf0f2 1 k 1 7 7 0 7k 1 1 x 1 x dx     \uf02d \uf03d \uf02d k 1 k 7kI 7kI     \uf02d \uf0de \uf02b \uf03d k k 1 (1 7k)I 7kI     \uf02d \uf0de \uf03d \uf02b k k 1 7k I I 1 7k     \uf02b \uf02b \uf0de \uf03d \uf02b \uf02b k 1 k 7(k 1) I I 1 7(k 1)     \uf02b \uf02b \uf05c \uf03d \uf03d \uf02b k k k 1 I 7k 8 r I 7(k 1)     \uf028 \uf029 \uf02d \uf0de \uf03d \uf0de \uf03d \uf02b \uf02b \uf02d k 1 k 1 1 r k 1 7(k 1) 7 r 1     \uf028 \uf029 \uf03d \uf03d \uf0b4 \uf0de \uf03d \uf02b \uf03d \uf02d \uf03d \uf067\uf02d \uf0e5 \uf0e5 10 10 k 1 k 1 k 1 11 12 (k 1) 1 65 7 1 2      JEE-MAIN-2024 (6th April-First Shift)-MPC-13  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Q26.  Let  \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 a 2i 3j 4k, b 3i 4j 5k \uf03d \uf02d \uf02b \uf03d \uf02b \uf02d \uf072 \uf072  and a vector c\uf072be such that  \uf028 \uf029 \u02c6 \u02c6 \u02c6 ax b c b c i 8j 13k. \uf02b \uf02b \uf0b4 \uf03d \uf02b \uf02b \uf072 \uf072 \uf072 \uf072 \uf072  If  a . c 13 \uf03d \uf072 \uf072 , then (24 b.c) \uf02d \uf072\uf072 is equal to_____.  Ans.   46  Sol.  \uf0b4 \uf02b \uf02b \uf0b4 \uf03d \uf02b \uf02b \uf072 \uf072 \uf072 \uf072 \uf072 \u02c6 \u02c6 \u02c6 a (b c) b c i 8j 33k     \uf0de \uf0b4 \uf02b \uf02b \uf0b4 \uf03d \uf02b \uf02b \uf072 \uf072 \uf072 \uf072 \uf072 a b (a b) c (i 83 13k)     Taking cross product with \uf072a  both side     \uf0de \uf0b4 \uf0b4 \uf02b \uf0b4 \uf0b4 \uf02b \uf0b4 \uf0b4 \uf072 \uf072 \uf072 \uf072 \uf072 \uf072 \uf072 \uf072 \uf072 a (a b) a (a c) a (b c)     \uf03d \uf02d \uf02b \uf0b4 \uf02b \uf02b \uf072 \u02c6 \u02c6 (2i 3j 4k) (i 8j 13k)     \uf0de \uf02d \uf02b \uf03d 2 2 (a.b) a | a | b (a.c)a | a | c  \uf02b \uf02d \uf03d\uf02d \uf02d \uf02b \uf072 2 \u02c6 \u02c6 \u02c6 (a.c)b (a.c)c 71 i 2 j 19k     \uf02d \uf02b \uf02d \uf03d\uf02d \uf02d \uf02b \uf072 \uf072 \uf072 \u02c6 \u02c6 \u02c6 13a 16b 3c 71 i 22j 19k     \uf02d \uf02b \uf03d \uf02b \uf02d \uf072 \uf072 \uf072 \u02c6 \u02c6 \u02c6 13a 16b 3c 71 i 2j 19k     Taking dot product with   \uf072 b both side    \uf0de  \uf02b \uf02b \uf03d \uf02b \uf02d \uf02b \uf02d \uf072 \uf072 2 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 13a.b 16b 3c.b (71 i 22j 18k).(3i 4j 5k)     \uf0de  (13) (\u201326) + 16 (50) + 3 (b.c)  = 213 + 88 + 95    \uf0de 462 + 3 (b.c) = 396    \uf0de b.c  = \u2013 22    \uf05c \uf02d \uf03d 24 (b.c) 46     Q27.  For n N \uf0ce , if cot\u201313 + cot\u201314 + cot\u201315 + cot-1n = 4 \uf070, then n is equal to_____.  Ans.   47  Sol.  \uf02d \uf02d \uf02d \uf02d \uf070 \uf0de \uf02b \uf02b \uf02b \uf03d 1 1 1 1 1 1 1 1 tan tan tan tan 5 n 3 4 4     \uf02d \uf02d \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf02b \uf02b \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf070 \uf0de \uf02b \uf03d \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf070 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf02d \uf02d \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e8 \uf0f8 1 1 1 1 1 1 3 4 5 n tan tan 1 4 1 1 12 5n     \uf02d \uf02d \uf02b \uf070 \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf0de \uf02b \uf03d \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf02d \uf0e8 \uf0f8 \uf0e8 \uf0f8 1 1 7 n 5 tan tan 11 5n 1 4     \uf02d \uf02d \uf02b \uf070 \uf0e6 \uf0f6 \uf0de \uf03d \uf02d \uf0e7 \uf0f7 \uf02d \uf0e8 \uf0f8 1 1 n 5 7 tan tan 5n 1 4 11    \uf02d \uf02d \uf02b \uf070 \uf0e6 \uf0f6 \uf0de \uf03d \uf02d \uf03d \uf0e7 \uf0f7 \uf02d \uf0e8 \uf0f8 \uf02b 1 7 1 n 5 7 11 tan tan 7 5n 1 4 11 1 11     \uf02b \uf0de \uf03d \uf03d \uf02d n 5 4 2 5n 1 18 9     \uf0de \uf02b \uf03d \uf02d 9n 45 10n 2          n = 47    Q28.  Let P be the point (10, \u20132, \u20131) and Q be the foot of the perpendicular drawn from the point   R(1, 7, 6) on the line passing through the points (2, \u20135, 11) and (\u20136, 7, \u20135). Then the length of the  line segment PQ is equal to_____.  Ans.   13   JEE-MAIN-2024 (6th April-First Shift)-MPC-14  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  Equation of line joining      (2, \u20135, 11) and (\u20136, 7, \u20135) is      \uf02d \uf02b \uf02d \uf03d \uf03d \uf02d x 2 y 5 z 11 8 12 16     or,  \uf02d \uf02b \uf02d \uf03d \uf03d \uf03d \uf02d x 2 y 5 z 11 r 2 3 4     Let the point Q is (2r+2, \u20133r \u2013 5, 4r + 11)    \uf05c dir ratio of line RQ is 2r + 1, \u20133r \u2013 12, 4r + 5  L  Q R (1, 7, 6)     RQ is \uf05e to L    \uf05c 2 (2r + 1) \u2013 3 (\u20133r \u2013 12) + 4 (4r + 5) = 0    \uf0de 29r + 58 = 0  \uf0de r = \u20132    \uf05c Q(\u20132, 1, 3) & P(10, \u20132, \u20131)    \uf05c \uf03d \uf02b \uf02b \uf03d ",
+        "context": "L2 (Page 12)"
+    },
+    {
+        "type": "text",
+        "content": "144 9 16 13     Q29.  Let a conic C pass through the point (4, \u20132) and P(x, y), x 3 \uf0b3 , be any point on C. Let the slope  of the line touching the conic C only at a single point P be half the slope of the line joining the  points P and (3, \u20135). If the focal distance of the point (7, 1) on C is d, then 12d equals_____.  Ans.  75  Sol.  \uf02b \uf0e6 \uf0f6 \uf03d \uf0e7 \uf0f7 \uf02d \uf0e8 \uf0f8 dy 1 y 5 dx 2 x 3     \uf03d \uf02b \uf0de \uf02d dy dx 2 y 5 x 3 \uf0de \uf02b 2ln(y   5)       =  \uf02d \uf02b ln(x 3) lnC   \uf0de \uf02b \uf03d \uf02d 2 (y 5) c(x 3)     C P(x,y) (4, \u20132)     It passes through (4, \u20132)    \uf0de \uf03d c 9     \uf05c \uf02b \uf03d \uf02d 2 (y 5) 9(x 3)     focus \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf02b \uf02d \uf03d \uf02d \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e8 \uf0f8 9 21 3 , 5 , 5 4 4     \uf0e6 \uf0f6 \uf03d \uf02d \uf02b \uf02b \uf03d \uf02b \uf03d \uf0e7 \uf0f7 \uf0e8 \uf0f8 2 2 21 49 25 d 7 (1 5) 36 . 4 16 4     \uf05c12d = 75    Q30.  Let  45 : , , R \uf061\uf062\uf067\uf03d \uf061\uf062\uf067\uf0ce . If x (\uf061, 1, 2) + y(1, \uf062, 2) + z(2, 3, \uf067) = (0, 0, 0) for some  x,y,z R, xyz 0 \uf0ce \uf0b9 , then \uf036\uf061\uf020\uf02b\uf020\uf034\uf062\uf020\uf02b\uf020\uf067 is equal to_____.  Ans.   55  Sol.  \uf061\uf02b \uf02b \uf03d x y 2z 0     \uf02b\uf062\uf02b \uf03d x y 3z 0     \uf02b \uf02b\uf067\uf03d 2x 2y z 0     as  \uf0b9 xyz 0   \uf05c the system has infinite solution    \uf061 \uf0de\uf044\uf03d \uf062 \uf03d \uf067 1 2 1 3 0 2 2     \uf0de\uf061\uf062\uf067\uf02d \uf02d \uf067\uf02d \uf02b \uf02d\uf062\uf03d ( 6) 1( 6) 2(2 2 ) 0     \uf0de\uf061\uf062\uf067\uf02d\uf061\uf02d\uf067\uf02b \uf02b \uf02d\uf062\uf03d 6 6 4 4 0 \uf0de \uf02b \uf03d \uf061\uf02b\uf062\uf02b\uf067 45 10 6 4     \uf0de \uf061\uf02b\uf062\uf02b\uf067\uf03d 6 4 55    JEE-MAIN-2024 (6th April-First Shift)-MPC-15  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  PART \u2013 B (PHYSICS)  ",
+        "context": "PQ (Page 14)"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_15_img_1.png",
+        "page_no": 15,
+        "context": "SECTION - A 15: Image 1"
+    },
+    {
+        "type": "text",
+        "content": "  (One Options Correct Type)    This section contains 20 multiple choice questions. Each question has four choices (1), (2), (3) and  (4), out of which ONLY ONE option is correct.     Q31.  A small ball of mass m and density \uf072 is dropped in a viscous liquid of density  0. \uf072  After  sometime, the ball falls with constant velocity. The viscous force on the ball is :      (A)  \uf028 \uf029 0 mg 1\uf02d\uf072\uf072    (B)  0 mg 1 \uf072 \uf0e6 \uf0f6 \uf02d \uf0e7 \uf0f7 \uf072 \uf0e8 \uf0f8      (C)  0 mg 1 \uf072 \uf0e6 \uf0f6 \uf02d \uf0e7 \uf0f7 \uf072 \uf0e8 \uf0f8   (D)  0 mg 1 \uf0e6 \uf0f6 \uf072 \uf02b \uf0e7 \uf0f7 \uf072 \uf0e8 \uf0f8    Ans.  C      Sol.  V B F mg F \uf03d \uf02d       V 0 F mg V g \uf03d \uf02d \uf072     V 0 m F mg g \uf03d \uf02d \uf072 \uf072     0 B F mg 1 \uf072 \uf0e6 \uf0f6 \uf03d \uf02d \uf0e7 \uf0f7 \uf072 \uf0e8 \uf0f8        mg FB Fv     Q32.  Electromagnetic waves travel in a medium with speed of  8 1 1.5 10 ms . \uf02d \uf0b4  The relative    permeability of the medium is 2.0. The relative permittivity will be :    (A) 5     (B) 1     (C) 4     (D) 2  Ans.  D   Sol.  0 0 1 C \uf03d \uf06d\uf065   -(i)    m m 1 V \uf03d \uf06d\uf065   -(ii)    (i) \uf0b8 (ii)     2 m m 2 0 0 c v \uf065 \uf06d \uf0b4 \uf03d \uf065 \uf06d     2 r r 2 c v \uf065\uf0b4\uf06d\uf03d     \uf028 \uf029 \uf028 \uf029 2 8 r 2 8 3 10 2 1.5 10 \uf0b4 \uf065\uf0b4 \uf03d \uf0b4     r 2 \uf065\uf03d       Q33.  A bullet of mass 50g is fired with a speed 100m/s on a plywood and emerges with 40m/s. The  percentage loss of kinetic energy is :        (A) 84%     (B) 16%      (C) 32%       (D) 44%     Ans.  A    JEE-MAIN-2024 (6th April-First Shift)-MPC-16  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  2 1 kE mv 2 \uf03d     2 2 1 1 v k k v \uf0e6 \uf0f6 \uf03d\uf0e7 \uf0f7 \uf0e8 \uf0f8     2 2 1 k 40 0.16 k 100 \uf0e6 \uf0f6 \uf03d \uf03d \uf0e7 \uf0f7 \uf0e8 \uf0f8     \uf028 \uf029 2 k 1 % 0.16 1 100 84% k \uf0e6 \uf0f6 \uf02d \uf03d \uf02d \uf0b4 \uf03d\uf02d \uf0e7 \uf0f7 \uf0e8 \uf0f8      Q34.  The value of unknown resistance (x) for which the   potential difference between B and D will be zero in the  arrangement shown is :            (A) 9\uf057         (B) 6\uf057     (C) 3\uf057    (D) 42\uf057      0.5\uf057 C  12\uf057  14.5V 12\uf057  x\uf057  12\uf057  12\uf057  24\uf057  B  A  1\uf057   Ans.  B  Sol.  12 0.5 x 6 0.5 \uf03d \uf02b     x 6 \uf0de \uf03d \uf057     Q35.  To find the spring constant (k) of a spring experimentally, a students commits 2% positive error in  the measurement of time and 1% negative error in measurement of mass. The percentage error  in determining value of k is :            (A) 1%     (B) 5%    (C) 4%    (D) 3%   Ans.  B   Sol.  m T 2 k \uf03d \uf070     2 m T k \uf061     2 T m k T m k \uf044 \uf044 \uf044 \uf03d \uf02d     k m 2 T k m T \uf044 \uf044 \uf044 \uf0de \uf03d \uf02d     \uf028 \uf029 k % 1 2 2 5% k \uf044 \uf0de \uf03d\uf02d \uf02d \uf0b4 \uf03d\uf02d       Q36.  Four particles A,B,C,D of mass m, 2 m, 2m, 4m, have same momentum, respectively. The particle  with maximum kinetic energy is :     (A) B                 (B) D    (C) C    (D) A   Ans.  D    Sol.  2 P kE 2m \uf03d    JEE-MAIN-2024 (6th April-First Shift)-MPC-17  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    1 kE m \uf061     A particle has maximum k.E.        Q37.  A sample contains mixture of helium and oxygen gas. The ratio of root mean square speed of  helium and oxygen in the sample, is :             (A)  1 2 2    (B) 1 32     (C) 1 4   (D) 2 2 1   Ans.  D   Sol.  rms 3RT V M \uf03d     O He 2 O He 2 M V 32 2 2 V M 4 \uf03d \uf03d \uf03d      Q38.  While measuring diameter of wire using screw gauge the following readings were noted. Main  scale reading is 1mm and circular scale reading is equal to 42 divisions. Pitch of screw gauge is  1mm and it has 100 divisions on circular scale. The diameter of the wire is x mm. 50 The value of x  is :      (A) 142               (B) 21     (C) 42  (D) 71   Ans.  D   Sol.  1 ",
+        "context": "SECTION - A (Page 15)"
+    },
+    {
+        "type": "text",
+        "content": "0 01mm 100 \uf0d7 \uf03d \uf03d \uf0d7     Diameter ",
+        "context": "L C (Page 17)"
+    },
+    {
+        "type": "text",
+        "content": "\uf03d \uf02b \uf0d7 \uf0b4 \uf0d7 \uf0d7     D 1 0 01 42 \uf03d \uf02b \uf0d7 \uf0b4     D 1 42mm \uf03d\uf0d7     x 1 42 50 \uf03d\uf0d7     x = 71        Q39.  An element \u02c6 xi \uf044\uf03d\uf044 \uf06c is placed at the origin and carries a large current  I = 10A. The magnetic field on the y-axis at a distance of 0.5m from  the elements x \uf044of 1cm length is :      (A)  8 4 10 T \uf02d \uf0b4     (B)  8 12 10 T \uf02d \uf0b4      (C)  8 10 10 T \uf02d \uf0b4    (D)  8 8 10 T \uf02d \uf0b4       0.5m x \uf044 x y P    Ans.  A   Sol.  \uf028 \uf029 0 3 i d r dB 4 r \uf06d \uf0b4 \uf03d \uf070 \uf075\uf075\uf072 \uf072 \uf06c \uf075\uf075\uf075\uf072       \uf028 \uf029 7 3 1 10 10 0.5 100 \u02c6 dB k 0.5 \uf02d\uf0b4 \uf0b4 \uf0b4 \uf03d \uf075\uf075\uf075\uf072      8 \u02c6 dB 4 10 T k \uf02d \uf03d \uf0b4 \uf075\uf075\uf075\uf072      JEE-MAIN-2024 (6th April-First Shift)-MPC-18  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Q40.  A train starting from rest first accelerates uniformly up to a speed of 80 km/h for time t, then it  moves with a constant speed for time 3t. The average speed of the train for this duration of  journey will be (in km/h) :               (A) 80   (B) 40     (C) 70  (D) 30   Ans.  C   Sol.  Total distance V Total time \uf03d     80 t 80 3t 2 V 4t \uf0b4\uf02b \uf0b4 \uf03d     280t V 70km / h 40t \uf03d \uf03d      Q41.  The correct truth for the following logic circuit is  :               B A Y     (A)            A  B  Y  0  0  1  1  0  1  0  1  0  0  0  1                   (B)  A  B  Y  0  0  1  1  0  1  0  1  1  1  0  1    (C) A  B  Y  0  0  1  1  0  1  0  1  1  1  0  0                   (D)            A  B  Y  0  0  1  1  0  1  0  1  0  1  0  1    Ans.  B   Sol.    A  B  Y  0  0  1  0  1  1  1  0  0  1  1  1      Q42.  In photoelectric experiment energy of 2.48 eV irradiates a photo sensitive material. The stopping  potential was measured to be 0.5 V. Work function of the photo sensitive material is :    (A) 0.5 eV     (B) 1.68 eV     (C) 1.98 eV  (D) 2.48 eV    Ans.  C   Sol.  hf ev \uf03d\uf066\uf02b     hf ev \uf066\uf03d \uf02d     2 48 0 5 \uf066\uf03d \uf0d7 \uf02d \uf0d7     1 98ev \uf066\uf03d\uf0d7     Q43.  \uf073is the uniform surface charge density of a thin spherical shell of radius R. The electric field at  any point on the surface of the spherical shell is :      (A)  0 / \uf073\uf0ce   (B)  0 / R \uf073\uf0ce      (C)  0 / 2 \uf073 \uf0ce   (D)  0 / 4 \uf073 \uf0ce   Ans.  A    JEE-MAIN-2024 (6th April-First Shift)-MPC-19  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  2 Q 4 R \uf03d\uf073\uf0b4\uf070     2 2 2 0 kQ 1 4 R E R 4 R \uf073\uf0b4\uf070 \uf03d \uf03d \uf0b4 \uf070\uf065     0 E \uf073 \uf03d\uf065                + + + + + + + + \uf073 + + + + + + + +     Q44.  Given below are two statements :    Statement I : In an LCR series circuit. Current is maximum at resonance.     Statement II : Current in a purely resistive circuit can never be less than that in a series      LCR circuit when connected to same voltage source.     In the light of the above statements, choose the correct from the options given below :       (A) Both Statement I and Statement II are true        (B) Statement I is false but Statement II is true      (C) Statement I is true but Statement II is false     (D) Both Statement I and Statement II are false     Ans.  A   Sol.  At resonance      L C X X \uf03d     Z R \uf03d     max V i R \uf03d     In purely resistive circuit     V i R \uf03d        Q45.  A light string passing over a smooth light pulley connects two blocks of masses m1 and m2 (where  m2 > m1). If the acceleration of the system is g , 2 then the ratio of the masses 1 2 m m is :     (A) 1 5 5 1 \uf02b \uf02d    (B)  3 1 2 1 \uf02b \uf02d       (C) 1 5 2 1 \uf02b \uf02d    (D)  2 1 2 1 \uf02d \uf02b    Ans.  D   Sol.  2 1 2 1 m m g g m m 2 \uf0e6 \uf0f6 \uf02d \uf03d\uf0e7 \uf0f7 \uf02b \uf0e8 \uf0f8     \uf028 \uf029 2 1 2 1 m m 2 m m \uf02b \uf03d \uf02d     1 2 m 2 1 m 2 1 \uf02d \uf0de \uf03d \uf02b        Q46.  The ratio of the wavelength of Balmer series to the shortest wavelength of Lyman series for  hydrogen atom is :         (A) 4 : 1   (B) 1 : 4     (C) 1 : 2  (D) 2 : 1   Ans.  A   Sol.  2 2 2 1 2 1 1 1 ",
+        "context": "C S D (Page 17)"
+    },
+    {
+        "type": "text",
+        "content": "n n \uf0e6 \uf0f6 \uf03d \uf02d \uf0e7 \uf0f7 \uf06c \uf0e8 \uf0f8     2 2 2 B 1 1 1 ",
+        "context": "RZ (Page 19)"
+    },
+    {
+        "type": "text",
+        "content": "2 \uf0e6 \uf0f6 \uf03d \uf02d \uf0e7 \uf0f7 \uf06c \uf0a5 \uf0e8 \uf0f8    JEE-MAIN-2024 (6th April-First Shift)-MPC-20  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    2 2 2 L 1 1 1 ",
+        "context": "RZ (Page 19)"
+    },
+    {
+        "type": "text",
+        "content": "1 \uf0e6 \uf0f6 \uf03d \uf02d \uf0e7 \uf0f7 \uf06c \uf0a5 \uf0e8 \uf0f8     B L 4 1 \uf06c \uf03d \uf06c         Q47.  Match List I with List II  ",
+        "context": "RZ (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "a.  Torque   I.  1 1 2 2 ",
+        "context": "LIST - II (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf02d \uf0e9 \uf0f9 \uf0eb \uf0fb   b.  Magnetic field  II.  2 1 ",
+        "context": "M L T A (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "\uf0e9 \uf0f9 \uf0eb \uf0fb   c.  Magnetic moment   III.  1 2 1 ",
+        "context": "L A (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf02d \uf0e9 \uf0f9 \uf0eb \uf0fb   d.  Permeability of free space   IV.  1 2 2 ",
+        "context": "M T A (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf0e9 \uf0f9 \uf0eb \uf0fb     Choose the correct answer from the options given below :      (A) a - IV, b - II, c - III, d - I    (B) a - IV, b - III, c - II, d - I     (C) a - I, b - III, c - II, d - IV              (D) a - III, b - I, c - II, d - IV     Ans.  B  Sol.  \uf05b\uf05d \uf05b \uf05d 2 2 r F ",
+        "context": "M L T (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf074\uf03d \uf0b4 \uf03d\uf0e9 \uf0f9 \uf0eb \uf0fb    \uf05b\uf05d 2 1 F B ",
+        "context": "ML T (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "qv \uf02d \uf02d \uf0e9 \uf0f9 \uf03d \uf03d\uf0e9 \uf0f9 \uf0ea \uf0fa \uf0eb \uf0fb \uf0eb \uf0fb     \uf05b\uf05d \uf05b \uf05d 2 M iA ",
+        "context": "MT A (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "\uf03d \uf03d\uf0e9 \uf0f9 \uf0eb \uf0fb    0 2 id B 4 r \uf06d \uf03d \uf070 \uf06c    \uf05b \uf05d 2 2 2 0 Br ",
+        "context": "AL (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "id \uf02d \uf02d \uf0e9 \uf0f9 \uf06d \uf03d \uf03d\uf0e9 \uf0f9 \uf0ea \uf0fa \uf0eb \uf0fb \uf0eb \uf0fb \uf06c      Q48.  Which of the following phenomena does not explain by wave nature of light.     a. reflection     b. diffraction     c. photoelectric effect     d. interference     e. polarization     Choose the most appropriate answer from the options given below :    (A) a, c only     (B) c only      (C) e only               (D) b, d only   Ans.  B   Sol.  Photoelectric effect explain by particle nature of light.       Q49.  The specific heat at constant pressure of a real gas obeying PV2 = RT equation is :       (A) R  (B) V R C 2V \uf02b      (C) CV + R      (D)  V R C 3 \uf02b    Ans.  B     Sol.  dQ du dw \uf03d \uf02b       V CdT C dT Pdv \uf03d \uf02b   -(i)    Pv2 = RT    P2vdv  = RdT   JEE-MAIN-2024 (6th April-First Shift)-MPC-21  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    RdT Pdv 2v \uf03d     -(ii)    v RdT CdT C dT 2v \uf03d \uf02b       v R C C 2v \uf03d \uf02b       Q50.  To project a body of mass m from earth\u2019s surface to infinity, the required kinetic energy is    (assume, the radius of earth is RE, g = acceleration due to gravity on the surface of earth):       (A) 1/2mgRE  (B) 2mgRE     (C) 4mgRE  (D) mgRE    Ans.  D   Sol.  2 E ",
+        "context": "MLT A (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "g R \uf03d     2 E 1 GMm mv 2 R \uf03d     E k E mgR \uf0d7\uf0d7\uf03d      ",
+        "context": "GM (Page 21)"
+    },
+    {
+        "type": "text",
+        "content": "  (Numerical Answer Type)    This section contains 10 Numerical based questions. The answer to each question is rounded off to the  nearest integer value.    Q51.  A particle is doing simple harmonic motion of amplitude 0.06m and time period 3.14s. The  maximum velocity of the particle is _______cm/s.       Ans.  12   Sol.  Maximum velocity at mean position     max 2 V A A T \uf070 \uf03d \uf077\uf03d \uf0b4     max 2 3.14 V 0.06 3.14 \uf0b4 \uf03d \uf0b4      max V 0.12m / s 12cm / s \uf03d \uf03d      Q52.  For three vectors \uf028 \uf029 \u02c6 \u02c6 \u02c6 A xi 6j 2k . \uf03d\uf02d \uf02d \uf02d \uf072 \uf028 \uf029 \u02c6 \u02c6 \u02c6 B i 4j 3k \uf03d\uf02d\uf02b \uf02b \uf072 and \uf028 \uf029 \u02c6 \u02c6 \u02c6 C 8i j 3k , \uf03d\uf02d \uf02d\uf02b \uf072 if  \uf028 \uf029 A. B C 0, \uf0b4 \uf03d \uf072 \uf072 \uf072 then  value of x is ________.    Ans.  4   Sol.  \uf028 \uf029 A B C 0 \uf0d7 \uf0b4 \uf03d \uf072 \uf072 \uf072     \uf028 \uf029\uf028 \uf029\uf028 \uf029 \uf07b \uf07d \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 xi 6j 2k i 4j 3k 8i j 3k 0 \uf0de\uf02d \uf02d \uf02d \uf0d7 \uf02d\uf02b \uf02b \uf0b4\uf02d \uf02d\uf02b \uf03d      \uf028 \uf029\uf028 \uf029 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 xi 6j 2k 15i 21j 33k 0 \uf0de\uf02d \uf02d \uf02d \uf0d7 \uf02d \uf02b \uf03d       15x 126 66 0 \uf0de\uf02d \uf02b \uf02d \uf03d      x 4 \uf0de \uf03d       Q53.  A wire of resistance R and radius r is stretched till its radius became r/2. If new resistance of the  stretched wire is x R, then value of x is _______.     Ans.  16     JEE-MAIN-2024 (6th April-First Shift)-MPC-22  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  R A \uf03d\uf072\uf06c    i f V V \uf03d     2 2 f r r 4 \uf0de\uf070 \uf03d\uf070 \uf0b4 \uf06c \uf06c    f 4 \uf0de \uf03d \uf06c \uf06c    f 2 4 R 16 16 R r A 4 \uf03d\uf072 \uf03d\uf072 \uf0b4 \uf03d \uf0b4 \uf070 \uf06c \uf06c     x = 16      Q54.  A circular coil having 200 turns, 4 2 2.5 10 m \uf02d \uf0b4 area and carrying 100 A \uf06d current is placed in a  uniform magnetic field of 1T. Initially the magnetic dipole moment\uf028\uf029 M \uf072 was directed   alongB. \uf072 Amount of work, required to rotate the coil through 90 \uf06ffrom its initial orientation such that  M \uf072 becomes perpendicular toB. \uf072 is ________ J. \uf06d           Ans.  5   Sol.  f i i i U U U U U U \uf044 \uf03d \uf02d \uf03d \uf02d \uf03d\uf02d     i w U U ",
+        "context": "SECTION - B (Page 21)"
+    },
+    {
+        "type": "text",
+        "content": "\uf044 \uf03d\uf02d\uf044 \uf03d \uf03d \uf0d7 \uf072 \uf072        \uf028 \uf029 w N iA B \uf044 \uf03d       6 4 w 200 100 10 2.5 10 1 \uf02d \uf02d \uf044 \uf03d \uf0b4 \uf0b4 \uf0b4 \uf0b4 \uf0b4    w 5 J \uf044 \uf03d \uf06d         M \uf072 Uf = 0 B \uf072 M \uf072 B \uf072 Ui   Q55.  Three infinitely long charge thin sheets are placed as shown in    figure. The magnitude of electric field at the point P is  0 x . \uf073 \uf0ce The    value of x is ________(all quantities are measured in SI units).     X = a X = -a X = 3a X -X Z O Y \uf02d\uf073 2 \uf02d\uf073 \uf073 P   Ans.  2  Sol.  \uf028 \uf029 P 0 0 0 2 \u02c6 E i 2 2 2 \uf0e6 \uf0f6 \uf073 \uf073 \uf073 \uf03d \uf02b \uf02b \uf02d \uf0e7 \uf0f7 \uf065 \uf065 \uf065 \uf0e8 \uf0f8 \uf072     P 0 0 0 4 2 x \u02c6 \u02c6 E i i 2 \uf073 \uf02d\uf073 \uf073 \uf03d\uf02d \uf03d \uf03d \uf065 \uf065 \uf065 \uf072       x = 2      Q56.  The refractive index of prism is 3 \uf06d\uf03d and the ratio of the angle of minimum deviation to the  angle of prism is one. The value of angle of prism is ______ .\uf06f   Ans.  60   Sol.  min S 1 A \uf03d              min S A \uf03d     2i A A \uf0de \uf02d \uf03d     A i 2 \uf03d      1 sin i sinr \uf03d\uf06d     A sinA sin 2 \uf0e6 \uf0f6 \uf03d\uf06d \uf0e7 \uf0f7 \uf0e8 \uf0f8    JEE-MAIN-2024 (6th April-First Shift)-MPC-23  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    A A A 2 sin cos sin 2 2 2 \uf0de \uf0b4 \uf0b4 \uf03d\uf06d\uf0b4     A 2cos 3 2 \uf0de \uf03d     A 30 2 \uf06f \uf0de \uf03d     A 60 \uf06f \uf03d       Q57.  A big drop is formed by coalescing 1000 small droplets of water. The ratio of surface energy of  1000 droplets to that of energy of big drop is 10. x The value of x is ______.    Ans.  1   Sol.  Surface energy 2 4 r T \uf03d \uf070     2 1000 2 1 S 1000 4 r T S 1 4 R T \uf0b4\uf070 \uf0b4 \uf03d \uf0b4\uf070 \uf0b4     3 3 4 4 1000 r 1 R 3 3 \uf0b4 \uf070 \uf03d\uf0b4 \uf070      R = 10r    2 1000 2 1 S 1000r 10 10 S 100r x \uf03d \uf03d \uf03d     x = 1      Q58.  If the radius of earth is reduced to three-fourth of its present value without change in its mass  then value of duration of the day of earth will be _______hours 30 minutes.       Ans.  13   Sol.  1 1 2 2 I I \uf077\uf03d\uf077    2 2 1 2 2 2 2 3 2 ",
+        "context": "M B (Page 22)"
+    },
+    {
+        "type": "text",
+        "content": "M R 5 T 5 4 T \uf070 \uf070 \uf0e6 \uf0f6 \uf0de \uf0b4 \uf03d \uf0b4 \uf0e7 \uf0f7 \uf0e8 \uf0f8     1 2 1 9 T 16T \uf0de \uf03d     2 1 9 9 27 T T 24 hr 16 16 2 \uf0de \uf03d \uf0b4 \uf03d \uf0b4 \uf03d     2 T 13hr 30mint \uf0de \uf03d      Q59.  Radius of a certain orbit of hydrogen atom is 8.48 A. \uf06f If energy of electron in this orbit is E/x, then   x = _______.               (Given 0 a 0.529A,E \uf06f \uf03d \uf03denergy of electron in ground state).    Ans.  16   Sol.  2 n r 0.529 z \uf03d     2 n 8.48 0.529 1 \uf03d     n = 4    1 4 2 E E E E n 16 x \uf03d \uf03d \uf03d      x = 16        JEE-MAIN-2024 (6th April-First Shift)-MPC-24  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Q60.  When a dc voltage of 100V is applied to an inductor, a dc current of 5A flows through it. When an  ac voltage of 200V peak value is connected to inductor, its inductive reactance is found to  be 20 3 . \uf057The power dissipated in the circuit is _______W.   Ans.  250    Sol0.  L x 20 3 \uf03d \uf057    V 100 R 20 i 5 \uf03d \uf03d \uf03d \uf057    \uf028 \uf029 2 2 2 2 L z x R 20 3 20 \uf03d \uf02b \uf03d \uf02b     z = 40    2 2 rms rms V Power i R R z \uf0e6 \uf0f6 \uf03d \uf0b4 \uf03d \uf0b4 \uf0e7 \uf0f7 \uf0e8 \uf0f8       2 200 2 P 20 250w 40 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf03d \uf0b4 \uf03d \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8                JEE-MAIN-2024 (6th April-First Shift)-MPC-25  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  PART \u2013 C (CHEMISTRY)  ",
+        "context": "MR (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "  (One Options Correct Type)    This section contains 20 multiple choice questions. Each question has four choices (1), (2), (3) and  (4), out of which ONLY ONE option is correct.     Q61.  Consider the following complexes.    \uf028 \uf029 \uf028 \uf029 \uf028 \uf029\uf028 \uf029 \uf028 \uf029 2 3 3 2 3 3 2 2 5 6 5 4 CoCl NH , Co CN , Co NH ",
+        "context": "SECTION - A (Page 25)"
+    },
+    {
+        "type": "text",
+        "content": ", Cu H O (A) (B) (C) (D) \uf02b \uf02d \uf02b \uf02b \uf0e9 \uf0f9 \uf0e9 \uf0f9 \uf0e9 \uf0f9 \uf0e9 \uf0f9 \uf0eb \uf0fb \uf0eb \uf0fb \uf0eb \uf0fb \uf0eb \uf0fb     The correct order of A,B,C and D  in terms of wave number of light absorbed is:    (A) B < C < A < D  (B) A < C < B < D    (C) D < A < C < B  (D) C < D < A < B  Ans.  C  Sol.  As value of \uf044[Crystal field split energy] increases. The light of more energy [ Lower wave length  or more wave number of radiation] will get absorbed order of  D A C B \uf044\uf03d \uf03c \uf03c \uf03c  wave number of  light  D A C B \uf0de \uf03c \uf03c \uf03c     Q62.  Given below are two statements:    Statement I : Gallium is used in the manufacturing of thermometers    Statement II: A thermometer containing gallium is useful for measuring the freezing point (256K)  of brine solution    In the light of the above statements, choose the correct answer from the options given  below:    (A) Statement I is false but Statement II is true.    (B) Both Statement I and Statement II are false    (C) Statement I  is true but Statement II is false.    (D) Both Statement I and Statement II are true.  Ans.  C  Sol.  Melting point of Ga = 303 K    Boiling point of Ga = 2676 K    Statement (I) \u2013 True     Statement (II) \u2013 False     Q63.  Which of the following material is not a semiconductor:    (A) Silicon  (B) Copper oxide    (C) Graphite  (D) Germanium  Ans.  C  Sol.  Graphite is conductor.    Q64.  In Reimer-Tiemann reaction phenol is converted into salicylaldehyde through an intermediate.  The structure of intermediate is_____________.  (A)  ONa ",
+        "context": "H O (Page 25)"
+    },
+    {
+        "type": "text",
+        "content": "  (B)   ",
+        "context": "CHO (Page 25)"
+    },
+    {
+        "type": "text",
+        "content": "CHCl2   (C)  ONa ",
+        "context": "OH (Page 25)"
+    },
+    {
+        "type": "text",
+        "content": "  (D)   ONa CHCl2    JEE-MAIN-2024 (6th April-First Shift)-MPC-26  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Ans.  D  Sol.      Q65.  Match the List I with List II  List-I  (Compound)  List-II  (Uses)  (a)  Iodoform  (I)  Fire extinguisher  (b)  Carbon tetrachloride  (II)  Insecticide  (c)  ",
+        "context": "CH3 (Page 25)"
+    },
+    {
+        "type": "text",
+        "content": "(III)  Antiseptic  (d)  ",
+        "context": "CFC (Page 26)"
+    },
+    {
+        "type": "text",
+        "content": "(IV)  Refrigerants    Choose the correct answer from the  options given below:    (A) a - III, b - I, c - IV, d - II  (B) a - III, b - II, c - IV, d - I    (C) a - II, b - IV, c - IV, d - I  (D) a - I, b - II, c - III, d - IV  Ans.  A  Compound   Use  Iodofrorm   Antiseptic   CCl4  Fire extinguisher   ",
+        "context": "DDT (Page 26)"
+    },
+    {
+        "type": "text",
+        "content": "Refrigerants   Sol.  ",
+        "context": "CFC (Page 26)"
+    },
+    {
+        "type": "text",
+        "content": "Insecticide     Q66.  Given below are two statements:    Statement I :  Picric acid is 2,4,6- trinitrotoluene.    Statement II: Phenol-2,4- disulphonic acid is treated with Conc. HNO3 to get picric acid.    In the light of the above statements, choose the most appropriate answer from the options given  below:    (A) Both Statement I and Statement II are correct.    (B) Statement I  is correct but Statement II is incorrect    (C) Statement I is incorrect but Statement II is correct.    (D) Both Statement I and Statement II are incorrect..  Ans.  C  Sol.  Pecric Acid [2,4,6 trinitrophenol] ",
+        "context": "DDT (Page 26)"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_1.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 1"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_2.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 2"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_3.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 3"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_4.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 4"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_5.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 5"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_6.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 6"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_7.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 7"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_8.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 8"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_9.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 9"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_10.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 10"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_11.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 11"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_12.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 12"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_13.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 13"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_14.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 14"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_15.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 15"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_16.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 16"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_17.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 17"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_18.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 18"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_19.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 19"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_20.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 20"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_21.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 21"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_22.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 22"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_23.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 23"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_24.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 24"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_25.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 25"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_26.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 26"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_27.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 27"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_28.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 28"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_29.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 29"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_30.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 30"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_31.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 31"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_32.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 32"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_33.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 33"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_34.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 34"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_35.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 35"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_26_img_36.png",
+        "page_no": 26,
+        "context": "NO2 26: Image 36"
+    },
+    {
+        "type": "text",
+        "content": "         JEE-MAIN-2024 (6th April-First Shift)-MPC-27  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Q67.  At -20oC and 1 atm pressure, a cylinder is filled with equal number of H2, I2 and HI molecules for  the reaction.    2 2 H (g) I (g) 2HI(g) \uf02b \uf083 , the  p K  for the  process is  1 x 10\uf02d \uf0b4 .    X = ______________.    [Given: R= 0.082 L atm K\uf02d1]    (A) 10  (B) 0.01    (C) 1  (D) 2  Ans.  A  Sol.  As  g P C H I ",
+        "context": "NO2 (Page 26)"
+    },
+    {
+        "type": "text",
+        "content": "2 2 n 0 k k , n n n a \uf044 \uf03d \uf0de \uf03d \uf03d \uf03d \uf03d moles, Vol  V \uf03d \uf06c  \uf05b \uf05d \uf05b\uf05d \uf028 \uf029 \uf028 \uf029 2 2 C 2 2 ",
+        "context": "HI (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "a / v k 1 a H I a / v v \uf03d \uf03d \uf03d \uf0e9 \uf0f9 \uf0e6 \uf0f6 \uf0eb \uf0fb \uf0b4\uf0e7 \uf0f7 \uf0e8 \uf0f8      1 P k 1 10 10 x 10 \uf02d \uf03d \uf03d \uf0b4 \uf0de \uf03d     Q68.  Match the List I with List II  List-I  (Hybridization)  List-II  (Orientation in Space)  (a)  sp3  (I)  Trigonal bipyramidal  (b)  dsp2  (II)  Octahedral  (c)  sp3d  (III)  Tetrahedral  (d)  sp3d2  (IV)  Square planar    Choose the correct answer from the  options given below:    (A) a - IV, b - III, c - I, d - II  (B) a - II, b - I, c - IV, d - III    (C) a - III, b - I, c - IV, d - II  (D) a - III, b - IV, c - I, d - II  Ans.  D  Sol.  sp3 \u2013 Tetrahedral     dsp2 \u2013 Square Planar     sp3d \u2013 Trigonal Bipyramid     sp3d2 \u2013 Octahedral     Q69.  The density of \u2018x\u2019 M solution (\u2018x\u2019 molar) of NaOH is 1.12 g mL\uf02d1, while in molality, the    concentration of the solution is 3m (3 molal). Then x is    (Given: Molar mass of NaOH is 40 g/ mol)    (A) 2.8  (B) 3.0    (C) 3.5  (D) 3.8  Ans.  B  Sol.  \uf028 \uf029solute M ",
+        "context": "H I (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "M d m 1000 \uf0e6 \uf0f6 \uf0b4 \uf0e6 \uf0f6 \uf03d \uf02b\uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e8 \uf0f8 x x 40 1.12 3 1000 \uf0b4 \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf0de \uf03d \uf02b \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e8 \uf0f8 x 3molar \uf0de \uf03d      Q70.  Which of the following is metamer of the given compound (X)?    ",
+        "context": "MM (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "C O (X)   (A)  ",
+        "context": "NH (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "C O   (B)   ",
+        "context": "NH (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "  (C)  ",
+        "context": "OHC (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "C O   (D)   ",
+        "context": "NH (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "C O   Ans.  D   JEE-MAIN-2024 (6th April-First Shift)-MPC-28  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  Metamers \uf0deStructural isomers of bivalent functional groups.     Where different alkyl /aryl groups are attached on either side of functional group.     Q71.  A conductivity cell with two electrodes (dark side) are half filled with infinitely dilute aqueous  solution of a weak electrolyte. If volume is double by adding more water at constant temperature,  the molar conductivity of the cell will-      (\uf02d) 1cm 1cm 1cm (+)     (A) increase sharply      (B) remain same or can not be measured accurately    (C) decrease sharply    (D) depend upon type of electrolyte  Ans.  B  Sol.    \u039bm C \uf0ae (Graph for weak electrolyte)     Addition of water to infinite dilute solution of weak electrolyte will not change molar conductivity     Q72.  Which among the following aldeydes is most reactive towards nucleophile addition reactions?    (A) (B) (C) (D) ",
+        "context": "NH (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "C H O ",
+        "context": "CH3 (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "C H O H C H O ",
+        "context": "C3H7 (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "H O   Ans.  C  Sol. H C H O Less steric hinderance at carbonyl carbon for attack of nucleophile High partial positive charge on carbonyl carbon      Q73.  Match the List I with List II  List-I  (Molecule / Species)  List-II  (Property / Shape)  (a)  SO2Cl2  (I)  Paramagnetic  (b)  ",
+        "context": "C2H5 C (Page 28)"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_28_img_1.png",
+        "page_no": 28,
+        "context": "NO 28: Image 1"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_28_img_2.png",
+        "page_no": 28,
+        "context": "NO 28: Image 2"
+    },
+    {
+        "type": "text",
+        "content": "(II)  Diamagnetic  (c)  2 NO\uf02d  (III)  Tetrahedral  (d)  3I\uf02d  (IV)  Linear    Choose the correct answer from the options given below:    (A) a - IV, b - I, c - III, d - II  (B) a - II, b - III, c - I, d - IV    (C) a \u2013 III, b - IV, c - II, d - I  (D) a - III, b - I, c - II, d - IV  Ans.  C   JEE-MAIN-2024 (6th April-First Shift)-MPC-29  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  SO2Cl2  S O O Cl Cl Hybridization of S - sp3 (Tetrahedral  shape)   ",
+        "context": "NO (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "\uf0de Paramagnetic [ odd election species ]   2 ",
+        "context": "NO (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf0de Diamagnetic   \uf028 \uf029 2bp 3 p . \uf02b\uf06c Hybridization of central I sp 3d [Linear shape] I3 = I I I        Q74.  The number of element from the following that do not belong to lanthanoids is    Eu, Cm, Er, Tb, Yb and Lu    (A) 4  (B) 3    (C) 1  (D) 5  Ans.  C  Sol4.  Cm is actinide wheras others are Lanthanoids.     Q75.  Functional group present in sulphonic acids is:  (A)  ",
+        "context": "NO (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "(B)   ",
+        "context": "SO2 (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "(C)  ",
+        "context": "SO3H (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "O   (D)   ",
+        "context": "S OH (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "Ans.  B  Sol.  Functional group in sulphonic acid = SO3H     Q76.  DNA molecule contains 4 bases whose structure are shown below. One of the structure is not  correct, identify the incorrect base structure.  (A)  ",
+        "context": "SO4H (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "C C N H C ",
+        "context": "NH (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "C ",
+        "context": "HC (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "O O   (B)   N H C C N C C ",
+        "context": "H3 (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "C C N ",
+        "context": "NH (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "O   (C)  N C C N H ",
+        "context": "NH2 (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "O   (D)   N H ",
+        "context": "NH2 (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "C N C N ",
+        "context": "HC (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "C N ",
+        "context": "CH (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "  Ans.  B  Sol.  A. Structure of Thymine     C. Cytosine       D. Adenine     DNA containl four bases : Adenine, cytosine, Guanine  and thymine     Q77.  Match the List I with List II  List-I (Molecule / Species)  List-II (Property / Shape)  (a)  4 4 NH Cl ",
+        "context": "NH2 (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02b   (I)  2 Mn \uf02b  (b)  4 2 3 ",
+        "context": "NH OH (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "Na CO \uf02b   (II)  2 Pb \uf02b  (c)  4 4 2 ",
+        "context": "NH OH (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "NH Cl H Sgas \uf02b \uf02b   (III)  3 Al \uf02b  (d)  Dilute HCl  (IV)  2 Sr \uf02b   JEE-MAIN-2024 (6th April-First Shift)-MPC-30  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    Choose the correct answer from the options given below:    (A) a - III, b - IV, c - I, d - II  (B) a - IV, b - III, c -II, d - I    (C) a - IV, b - III, c - I, d - II  (D) a - III, b - IV, c - II, d - I  Ans.  A  Sol.  Mn2+ - Group (IV) basic radical    Pb2+  - Group (I) basic radical    Al3+   - Group (III) basic radical    Sr2+  - Group (V) basic radical     Q78.  Match the List I with List II  List-I  (Compound / Species)  List-II  (Shape / Geometry)  (a)  4 ",
+        "context": "NH OH (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "(I)  Tetrahedral  (b)  3 BrF   (II)  Pyramidal  (c)  3 BrO\uf02d  (III)  See saw  (d)  4 NH\uf02b  (IV)  Bent T-Shape    Choose the correct answer from the options given below:    (A) a - III, b - II, c - IV, d - I  (B) a - II, b - III, c - I, d - IV    (C) a - III, b - IV, c - II, d - I  (D) a - II, b - IV, c - III, d - I  Ans.  C  Sol.  \uf028 \uf029 4 ",
+        "context": "SF (Page 30)"
+    },
+    {
+        "type": "text",
+        "content": "4bp 1 p \uf0de \uf02b\uf06c  \uf0deSee \u2013 saw     \uf028 \uf029 3 BrF 3bp 2 p \uf0de \uf02b\uf06c  \uf0deBent T- shape    \uf028 \uf029 3 BrO 3bp 1 p \uf02d\uf0de \uf02b\uf06c \uf0dePyramidal    \uf028 \uf029 4 ",
+        "context": "SF (Page 30)"
+    },
+    {
+        "type": "text",
+        "content": "4bp 0 p \uf0c5 \uf0de \uf02b\uf06c \uf0deTetrahedral     Q79.  Which of the following statements are correct?    a.  Glycerol is purified by vacuum distillation because it decomposes at its normal boiling point.    b.  Aniline can be purified by steam distillation as aniline is miscible in water.    c.  Ethanol can be separated from ethanol water mixture by azeotropic distillation because it  forms azeotrope.    d.  An organic compound is pure if mixed M.P, is remained same.    Choose the most appropriate answer from the options given below:    (A) a, b, c only  (B) b, c, d only    (C) a, c, d only  (D) a, b, d only  Ans.  C  Sol.  Aniline is immiscible in water.     Q80.  The electron affinity value are negative for     a. Be Be\uf02d \uf0ae     b. N N\uf02d \uf0ae     c.  2 O O \uf02d \uf0ae     d. Na Na\uf02d \uf0ae     e. Al Al\uf02d \uf0ae     Choose the most appropriate answer from the options given below:    (A) a, b and c only  (B) d and e only    (C) a and d only  (D) a, b, d and e only  Ans.  A   JEE-MAIN-2024 (6th April-First Shift)-MPC-31  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.            ",
+        "context": "NH (Page 30)"
+    },
+    {
+        "type": "text",
+        "content": "  (Numerical Answer Type)    This section contains 10 Numerical based questions. The answer to each question is rounded off to the  nearest integer value.    Q81.  9.3 g of pure aniline upon diazotization followed by coupling with phenol gives an orange dye.  The mass of orange dye produced (assume 100% yield / conversion) is _______g. (nearest  integer)  Ans.  20.  Sol.          1 mole of Aniline given 1 mole of orange dye.   No. of moles of orange dye = no. of moles of Aniline   9.3gm 0.1mole 93gm / mole \uf03d \uf03d   Mass of orange dye  199 0.1 19.9gm 20gm \uf03d \uf0b4 \uf03d \uf03a       Q82.  Consider the dissociation of weak acid HX as given below    \uf028 \uf029 5 HX(aq) H X aq ,Ka 1.2 10 \uf02b \uf02d \uf02d \uf02b \uf03d \uf0b4 \uf083     [  a K : dissociation constant]    The osmotic pressure of 0.03 M aqueous solution of HX at 300 K is_____ 2 10\uf02d \uf0b4  bar     (nearest integer)    [ Given: R= 0.083 L bar mol\uf02d1 K\uf02d1]  Ans.  76  Sol.    \uf028 \uf029 \uf05b \uf05d \uf028 \uf029 eq eq 5 a eq H X x.x K ",
+        "context": "SECTION - B (Page 31)"
+    },
+    {
+        "type": "text",
+        "content": "1.2 10 ",
+        "context": "HX (Page 31)"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_1.png",
+        "page_no": 31,
+        "context": "HX 31: Image 1"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_2.png",
+        "page_no": 31,
+        "context": "HX 31: Image 2"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_3.png",
+        "page_no": 31,
+        "context": "HX 31: Image 3"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_4.png",
+        "page_no": 31,
+        "context": "HX 31: Image 4"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_5.png",
+        "page_no": 31,
+        "context": "HX 31: Image 5"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_6.png",
+        "page_no": 31,
+        "context": "HX 31: Image 6"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_7.png",
+        "page_no": 31,
+        "context": "HX 31: Image 7"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_8.png",
+        "page_no": 31,
+        "context": "HX 31: Image 8"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_9.png",
+        "page_no": 31,
+        "context": "HX 31: Image 9"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_10.png",
+        "page_no": 31,
+        "context": "HX 31: Image 10"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_11.png",
+        "page_no": 31,
+        "context": "HX 31: Image 11"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_12.png",
+        "page_no": 31,
+        "context": "HX 31: Image 12"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_13.png",
+        "page_no": 31,
+        "context": "HX 31: Image 13"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_14.png",
+        "page_no": 31,
+        "context": "HX 31: Image 14"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_15.png",
+        "page_no": 31,
+        "context": "HX 31: Image 15"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_16.png",
+        "page_no": 31,
+        "context": "HX 31: Image 16"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_17.png",
+        "page_no": 31,
+        "context": "HX 31: Image 17"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_18.png",
+        "page_no": 31,
+        "context": "HX 31: Image 18"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_19.png",
+        "page_no": 31,
+        "context": "HX 31: Image 19"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_20.png",
+        "page_no": 31,
+        "context": "HX 31: Image 20"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_21.png",
+        "page_no": 31,
+        "context": "HX 31: Image 21"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_22.png",
+        "page_no": 31,
+        "context": "HX 31: Image 22"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_23.png",
+        "page_no": 31,
+        "context": "HX 31: Image 23"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_24.png",
+        "page_no": 31,
+        "context": "HX 31: Image 24"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_25.png",
+        "page_no": 31,
+        "context": "HX 31: Image 25"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_26.png",
+        "page_no": 31,
+        "context": "HX 31: Image 26"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_27.png",
+        "page_no": 31,
+        "context": "HX 31: Image 27"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_28.png",
+        "page_no": 31,
+        "context": "HX 31: Image 28"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_29.png",
+        "page_no": 31,
+        "context": "HX 31: Image 29"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_30.png",
+        "page_no": 31,
+        "context": "HX 31: Image 30"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_31.png",
+        "page_no": 31,
+        "context": "HX 31: Image 31"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_32.png",
+        "page_no": 31,
+        "context": "HX 31: Image 32"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_33.png",
+        "page_no": 31,
+        "context": "HX 31: Image 33"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_34.png",
+        "page_no": 31,
+        "context": "HX 31: Image 34"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_35.png",
+        "page_no": 31,
+        "context": "HX 31: Image 35"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_36.png",
+        "page_no": 31,
+        "context": "HX 31: Image 36"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_37.png",
+        "page_no": 31,
+        "context": "HX 31: Image 37"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_38.png",
+        "page_no": 31,
+        "context": "HX 31: Image 38"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_39.png",
+        "page_no": 31,
+        "context": "HX 31: Image 39"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_40.png",
+        "page_no": 31,
+        "context": "HX 31: Image 40"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_41.png",
+        "page_no": 31,
+        "context": "HX 31: Image 41"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_42.png",
+        "page_no": 31,
+        "context": "HX 31: Image 42"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_43.png",
+        "page_no": 31,
+        "context": "HX 31: Image 43"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_44.png",
+        "page_no": 31,
+        "context": "HX 31: Image 44"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_45.png",
+        "page_no": 31,
+        "context": "HX 31: Image 45"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_46.png",
+        "page_no": 31,
+        "context": "HX 31: Image 46"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_47.png",
+        "page_no": 31,
+        "context": "HX 31: Image 47"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_48.png",
+        "page_no": 31,
+        "context": "HX 31: Image 48"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_49.png",
+        "page_no": 31,
+        "context": "HX 31: Image 49"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_50.png",
+        "page_no": 31,
+        "context": "HX 31: Image 50"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_51.png",
+        "page_no": 31,
+        "context": "HX 31: Image 51"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_52.png",
+        "page_no": 31,
+        "context": "HX 31: Image 52"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_53.png",
+        "page_no": 31,
+        "context": "HX 31: Image 53"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_54.png",
+        "page_no": 31,
+        "context": "HX 31: Image 54"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_55.png",
+        "page_no": 31,
+        "context": "HX 31: Image 55"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_56.png",
+        "page_no": 31,
+        "context": "HX 31: Image 56"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_57.png",
+        "page_no": 31,
+        "context": "HX 31: Image 57"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_58.png",
+        "page_no": 31,
+        "context": "HX 31: Image 58"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_59.png",
+        "page_no": 31,
+        "context": "HX 31: Image 59"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_60.png",
+        "page_no": 31,
+        "context": "HX 31: Image 60"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_61.png",
+        "page_no": 31,
+        "context": "HX 31: Image 61"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_62.png",
+        "page_no": 31,
+        "context": "HX 31: Image 62"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_63.png",
+        "page_no": 31,
+        "context": "HX 31: Image 63"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_64.png",
+        "page_no": 31,
+        "context": "HX 31: Image 64"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_65.png",
+        "page_no": 31,
+        "context": "HX 31: Image 65"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_66.png",
+        "page_no": 31,
+        "context": "HX 31: Image 66"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_67.png",
+        "page_no": 31,
+        "context": "HX 31: Image 67"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_68.png",
+        "page_no": 31,
+        "context": "HX 31: Image 68"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_69.png",
+        "page_no": 31,
+        "context": "HX 31: Image 69"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_70.png",
+        "page_no": 31,
+        "context": "HX 31: Image 70"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_71.png",
+        "page_no": 31,
+        "context": "HX 31: Image 71"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_72.png",
+        "page_no": 31,
+        "context": "HX 31: Image 72"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_73.png",
+        "page_no": 31,
+        "context": "HX 31: Image 73"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_74.png",
+        "page_no": 31,
+        "context": "HX 31: Image 74"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_75.png",
+        "page_no": 31,
+        "context": "HX 31: Image 75"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_76.png",
+        "page_no": 31,
+        "context": "HX 31: Image 76"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_77.png",
+        "page_no": 31,
+        "context": "HX 31: Image 77"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_31_img_78.png",
+        "page_no": 31,
+        "context": "HX 31: Image 78"
+    },
+    {
+        "type": "text",
+        "content": "0.03 x \uf02b \uf02d \uf02d \uf0b4 \uf0e9 \uf0f9 \uf0e9 \uf0f9 \uf0eb \uf0fb \uf0eb \uf0fb \uf03d \uf03d \uf03d \uf0b4 \uf02d   As value of Ka is very less so value of x is less.     \uf028 \uf029 0.03 x M 0.03M \uf02d \uf0be\uf0be\uf0ae    JEE-MAIN-2024 (6th April-First Shift)-MPC-32  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  2 5 4 x 1.2 10 x 6 10 M 0.03 \uf02d \uf02d \uf03d \uf0b4 \uf0de \uf03d \uf0b4    \uf05b \uf05d \uf028 \uf029 \uf028 \uf029 Solution 0.03 x x x 0.03 x \uf03d \uf02d \uf02b \uf02b \uf03d \uf02b   \uf028 \uf029 4 0.03 6 10 M \uf02d \uf03d \uf02b \uf0b4   \uf05b\uf05dsolution S T \uf070\uf03d \uf0b4 \uf0b4   \uf028 \uf029 4 0.03 6 10 0.083 300 \uf02d \uf03d \uf02b \uf0b4 \uf0b4 \uf0b4   2 76.19 10 \uf02d \uf03d \uf0b4   2 76 10 bar \uf02d \uf03d \uf0b4       Q83.  Number of molecules from the following which can exhibit hydrogen bonding is________    (nearest integer)    CH3OH,H2O,C2H6,C6H6 ",
+        "context": "HX (Page 31)"
+    },
+    {
+        "type": "text",
+        "content": ", HF,NH3   Ans.  5  Sol.    2 6 6 6 ",
+        "context": "OH (Page 32)"
+    },
+    {
+        "type": "text",
+        "content": "& C H \uf0aeDo not show H- Bonding       Q84.  The difference in the  \u2018spin-only\u2019 magnetic moment values of KMnO4 and the manganese product  formed during titration of KMnO4 against oxalic acid in acidic medium is ________B.M (nearest  integer)  Ans.  6  Sol.  2 2 4 2 4 2 MnO ",
+        "context": "C H (Page 32)"
+    },
+    {
+        "type": "text",
+        "content": "Mn \uf02d \uf02d \uf02b \uf02b \uf0be\uf0be\uf0ae \uf02b     7 4 MnO \uf02b \uf02d \uf0de no. of unpaired e = 0     \uf05b \uf05d 0 Ar 4s 3d \uf06f     2 Mn \uf02b \uf0deno. of unpaired e = 5      \uf05b \uf05d 5 Ar 4s 3d \uf06f     Spin only, magnetic moment is  4 MnO 0 \uf02d\uf03d     Spin only, magnetic moment in  \uf028 \uf029 2 Mn 5 5 2 BM \uf02b\uf03d \uf02b     35BM \uf03d     = 5.9BM     = 6 BM     Q85.  An ideal gas  v 5 C R 2 \uf03d , is expanded adiabatically against a constant pressure of 1 atm until it  doubles in volume. If the initial temperature and pressure is 298 K and 5 atm respectively then  the final temperature is _________K (nearest integer)  Ans.  274  Sol.  U q w \uf044 \uf03d \uf02b       U w \uf0de\uf044 \uf03d  (Adiabatic process)     \uf028 \uf029 V ext 2 1 n C T P V V \uf0de \uf044 \uf03d\uf02d \uf02d     \uf028 \uf029 2 1 2 1 2 1 nRT nRT 5 n ",
+        "context": "CO (Page 32)"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_1.png",
+        "page_no": 32,
+        "context": "R T 32: Image 1"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_2.png",
+        "page_no": 32,
+        "context": "R T 32: Image 2"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_3.png",
+        "page_no": 32,
+        "context": "R T 32: Image 3"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_4.png",
+        "page_no": 32,
+        "context": "R T 32: Image 4"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_5.png",
+        "page_no": 32,
+        "context": "R T 32: Image 5"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_6.png",
+        "page_no": 32,
+        "context": "R T 32: Image 6"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_7.png",
+        "page_no": 32,
+        "context": "R T 32: Image 7"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_8.png",
+        "page_no": 32,
+        "context": "R T 32: Image 8"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_9.png",
+        "page_no": 32,
+        "context": "R T 32: Image 9"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_10.png",
+        "page_no": 32,
+        "context": "R T 32: Image 10"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_11.png",
+        "page_no": 32,
+        "context": "R T 32: Image 11"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_12.png",
+        "page_no": 32,
+        "context": "R T 32: Image 12"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_13.png",
+        "page_no": 32,
+        "context": "R T 32: Image 13"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_14.png",
+        "page_no": 32,
+        "context": "R T 32: Image 14"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_15.png",
+        "page_no": 32,
+        "context": "R T 32: Image 15"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_16.png",
+        "page_no": 32,
+        "context": "R T 32: Image 16"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_17.png",
+        "page_no": 32,
+        "context": "R T 32: Image 17"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_18.png",
+        "page_no": 32,
+        "context": "R T 32: Image 18"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_19.png",
+        "page_no": 32,
+        "context": "R T 32: Image 19"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_20.png",
+        "page_no": 32,
+        "context": "R T 32: Image 20"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_21.png",
+        "page_no": 32,
+        "context": "R T 32: Image 21"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_22.png",
+        "page_no": 32,
+        "context": "R T 32: Image 22"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_23.png",
+        "page_no": 32,
+        "context": "R T 32: Image 23"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_32_img_24.png",
+        "page_no": 32,
+        "context": "R T 32: Image 24"
+    },
+    {
+        "type": "text",
+        "content": "T 1 2 P P \uf0e9 \uf0f9 \uf0de \uf0b4 \uf02d \uf03d\uf02d \uf02d \uf0ea \uf0fa \uf0eb \uf0fb     2 1 V 2V \uf03d     JEE-MAIN-2024 (6th April-First Shift)-MPC-33  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    2 1 2 2 2 1 nRT nRT 5T 2 P P P 2 298 \uf03d \uf0b4 \uf0de \uf03d \uf0b4     1 1 T 298K , P 5atm \uf03d \uf03d     \uf028 \uf029 2 2 2 nRT 5 nR 298 n ",
+        "context": "R T (Page 32)"
+    },
+    {
+        "type": "text",
+        "content": "298 1 5T 2 5 2 298 \uf0e9 \uf0f9 \uf0ea \uf0fa \uf0b4 \uf0ea \uf0fa \uf0b4 \uf02d \uf03d\uf02d \uf02d \uf0ea \uf0fa \uf0e6 \uf0f6 \uf02d\uf0e7 \uf0f7 \uf0ea \uf0fa \uf0b4 \uf0e8 \uf0f8 \uf0eb \uf0fb 2 T 274.16k \uf0de \uf03d     = 274 k    Q86.  The major product of the  following reaction is P.    ",
+        "context": "R T (Page 33)"
+    },
+    {
+        "type": "text",
+        "content": "C ",
+        "context": "CH3C (Page 33)"
+    },
+    {
+        "type": "text",
+        "content": "(i) Na / liq. NH3 (ii) dil. KMnO4 273 K 'P'     Number of oxygen atoms present in product ___________(nearest integer)  Ans.  2  Sol.  Na Lqd. NH5 dil.KMNO4 C C C ",
+        "context": "CH3 (Page 33)"
+    },
+    {
+        "type": "text",
+        "content": "H ",
+        "context": "H3 (Page 33)"
+    },
+    {
+        "type": "text",
+        "content": "H ",
+        "context": "CH3 (Page 33)"
+    },
+    {
+        "type": "text",
+        "content": "C C ",
+        "context": "CH3 (Page 33)"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_1.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 1"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_2.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 2"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_3.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 3"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_4.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 4"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_5.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 5"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_6.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 6"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_7.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 7"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_8.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 8"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_9.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 9"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_10.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 10"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_11.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 11"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_12.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 12"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_13.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 13"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_14.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 14"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_15.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 15"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_16.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 16"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_17.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 17"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_18.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 18"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_19.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 19"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_20.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 20"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_21.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 21"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_22.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 22"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_23.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 23"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_24.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 24"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_25.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 25"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_26.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 26"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_27.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 27"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_28.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 28"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_29.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 29"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_30.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 30"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_31.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 31"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_32.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 32"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_33.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 33"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_34.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 34"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_35.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 35"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_36.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 36"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_37.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 37"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_38.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 38"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_39.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 39"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_40.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 40"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_41.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 41"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_42.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 42"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_43.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 43"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_44.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 44"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_45.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 45"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_46.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 46"
+    },
+    {
+        "type": "image",
+        "content": "D:/Projects/test-generator-llm-rag/output_folder/PYQ12\\page_34_img_47.png",
+        "page_no": 34,
+        "context": "CH3 34: Image 47"
+    },
+    {
+        "type": "text",
+        "content": "    Q87.  Among CrO, Cr2O3 and CrO3, the sum of spin-only magnetic moment values of basic and    amphoteric oxides is __________10\uf02d2BM (nearest integer)    (Given atomic number of Cr is 24)  Ans.   877  Sol.  CrO \u2013 Basic oxide     Cr2O3 \u2013 Amphoteric oxide     CrO3 \u2013 Acidic oxide    \uf05b \uf05d 2 2 4 CrO Cr Ar 4s 3d \uf02b \uf02b \uf06f \uf02d     No. of unpaired electrons = 4      \uf028 \uf029 4 4 2 BM 24BM 4.9BM \uf06d\uf03d \uf02b \uf03d \uf03d     \uf05b \uf05d 3 3 3 2 3 Cr O Cr Ar 4s 3d \uf02b \uf02b \uf06f \uf02d     no. of unpaired electrons = 3     \uf028 \uf029 3 3 2 15BM 3.87BM \uf06d\uf03d \uf02b \uf03d \uf03d      Sum = 4.90+3.87= 8.77 = 877\u00d710-2     Q88.  Time required for 99.9% completion of a first order reaction is________times the time    required for completion of 90% reaction (nearest integer)  Ans.  3  Sol.  99.9 1 1 t n k 0.001 \uf03d \uf06c     90 1 1 t n k 0.1 \uf03d \uf06c     99.9 90 t 3 t \uf03d    JEE-MAIN-2024 (6th April-First Shift)-MPC-34  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Q89.  Frequency of the de-Broglie wave of electron in Bohr\u2019s first orbit of hydrogen atom is_________  13 10 \uf0b4 Hz (nearest integer)    [Give: RH (Rydberg constant) =  18 2.18 10\uf02d \uf0b4 J, h (Plank\u2019s constant  34 6.6 10 J.s \uf02d \uf0b4 ]  13 661 10 J \uf03d \uf0b4    Ans.  661  Sol.  2 2 h hv mv v v mv mv h \uf0e6 \uf0f6 \uf06c\uf03d \uf03d \uf0de \uf03d \uf03d \uf0e7 \uf0f7 \uf06c \uf0e8 \uf0f8 (frequency)     2 18 mv 2 2.18 10 J \uf02d \uf03d \uf0b4 \uf0b4         \uf028 \uf029 2 1 H 1 K E of e mv E ,H R in J 2 \uf0d7 \uf0d7 \uf03d \uf03d\uf02d \uf03a     34 h 6.6 10 J sec \uf02d \uf03d \uf0b4 \uf02d       2 18 16 34 mv 2 2.18 10 2 2.18 10 v h 6.6 10 6.6 \uf02d \uf02d \uf0b4 \uf0b4 \uf0b4 \uf0b4 \uf03d \uf03d \uf03d \uf0b4     13 2 2.18 1000 10 6.6 \uf0b4 \uf0b4 \uf03d \uf0b4     13 660.6 10 J \uf03d \uf0b4     13 661 10 J \uf03d \uf0b4      Q90.  The major products from the  following reaction sequence are product A and product B    (i) Br2 (ii) alc. KOH (3 eq) (i) Br2 O  Na (1.0 eq.) (ii) A B     The total sum of \uf070 electrons in product A and product B are _________(nearest integer)   Ans.  8  Sol.                       ",
+        "context": "CH3 (Page 33)"
+    }
+]

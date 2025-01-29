@@ -1,0 +1,397 @@
+[
+    {
+        "type": "text",
+        "content": "  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  ",
+        "context": ""
+    },
+    {
+        "type": "text",
+        "content": "Solutions to JEE(Main) -2024    Test Date: 1st February 2024 (Second Shift)           MATHEMATICS, PHYSICS & CHEMISTRY      Paper \u2013 1       Time Allotted: 3 Hours              Maximum Marks: 300    \uf0a7  Please read the instructions carefully. You are allotted 5 minutes specifically for this  purpose.  Important Instructions:      1.  The test is of 3 hours duration.   2.  This test paper consists of 90 questions. Each subject (MPC) has 30 questions. The  maximum marks are 300.   3.  This question paper contains three parts. Part-A is Mathematics, Part-B is Physics and  Part-C is Chemistry. Each part has only two sections: Section-A and Section-B.  4.      Section \u2013 A : Attempt all questions.  5.  Section \u2013 B : Do any 5 questions out of 10 Questions.  6.   Section-A (01 \u2013 20, 31 \u2013 50, 61 \u2013 80) contains 60 multiple choice questions which have  only one correct answer. Each question carries +4 marks for correct answer and \u20131  mark for wrong answer.    7.  Section-B (21 \u2013 30, 51 \u2013 60, 81 \u2013 90) contains 30 Numerical based questions. The  answer to each question is rounded off to the nearest integer value. Each question carries  +4 marks for correct answer and \u20131 mark for wrong answer.          Note: For the benefit of the students, specially the aspiring ones, the question of  JEE(Main), 2024 are also given in this booklet. Keeping the interest of students  studying in class XI, the questions based on topics from class XI have been  marked with \u2018*\u2019, which can be attempted as a test.    JEE-MAIN-2024 (1st February-Second Shift)-MPC-2  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  PART \u2013 A (MATHEMATICS)  ",
+        "context": "FIITJEE (Page 1)"
+    },
+    {
+        "type": "text",
+        "content": "  (One Options Correct Type)    This section contains 20 multiple choice questions. Each question has four choices (1), (2), (3) and  (4), out of which ONLY ONE option is correct.   *1.  If the domain of the function \uf0a6(x) =  \uf028 \uf029 \uf028 \uf029 2 2 10 2 x 25 log x 2x 15 4 x \uf02d \uf02b \uf02b \uf02d \uf02d  is \uf028 \uf029 \uf05b \uf029 , , \uf02d\uf0a5\uf061\uf0c8\uf062\uf0a5, then   \uf0612 + \uf0623 is equal to:    (1) 140  (2) 175    (3) 125  (4) 150    Ans.  (4)  Sol.  x2 \u2013 25 \uf0b3 0 \uf0de (x \u2013 5)(x + 5) \uf0b3 0 \uf0de x \uf0ce (\u2013\uf0a5, \u20135] \uf0c8 [5, \uf0a5)    4 \u2013 x2 \uf0b9 0 \uf0de x \uf0b9 \u20132, 2    x2 + 2x \u2013 15 > 0 \uf0de (x + 5)(x \u2013 3) > 0 \uf0de x \uf0ce (\u2013\uf0a5, \u20135) \uf0c8 (3, \uf0a5)    Taking intersection, we get (\u2013\uf0a5, \u20135) \uf0c8 [5, \uf0a5)    \uf05c \uf061 = \u20135, \uf062 = 5 \uf0de \uf0612 + \uf0622 = 25 + 125 = 150  *2.  If z is a complex number such that |z| \uf0b3 1, then the minimum value of  \uf028 \uf029 1 z 3 4i 2 \uf02b \uf02b  is:    (1) 2  (2) 5 2     (3) 3 2   (4) 3    Ans.  (3)  Sol.  We know that |z1 + z2| \uf0b3 ||z1| \u2013 |z2||    \uf0de  3 3 5 3 \u02c6 \u02c6 z 2i z 2i 1 2 2 2 2 \uf0e6 \uf0f6 \uf02b \uf02b \uf0b3 \uf02d \uf02b \uf0b3 \uf02d \uf0b3 \uf0e7 \uf0f7 \uf0e8 \uf0f8   3.  Consider a \uf044ABC where A(1, 3, 2), B(\u2013 2, 8, 0) and C(3, 6, 7). If the angle bisector of  \uf0d0BAC meets the line BC at D, then the length of the projection of the vector AD \uf075\uf075\uf075\uf072  on the  vector AC \uf075\uf075\uf075\uf072  is:    (1)  37 2 38   (2)  19     (3)  39 2 38   (4)  38 2     Ans.  (1)   JEE-MAIN-2024 (1st February-Second Shift)-MPC-3  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  \u02c6 \u02c6 \u02c6 ",
+        "context": "SECTION - A (Page 2)"
+    },
+    {
+        "type": "text",
+        "content": "3i 5j 2k 38 \uf03d\uf02d \uf02b \uf02d \uf03d \uf075\uf075\uf075\uf072     \u02c6 \u02c6 \u02c6 ",
+        "context": "AB (Page 3)"
+    },
+    {
+        "type": "text",
+        "content": "2i 3j 5k 38 \uf03d \uf02b \uf02b \uf03d \uf075\uf075\uf075\uf072     ",
+        "context": "AC (Page 3)"
+    },
+    {
+        "type": "text",
+        "content": "1 ",
+        "context": "AB (Page 3)"
+    },
+    {
+        "type": "text",
+        "content": "1 \uf03d \uf03d  \uf0de BD = DC    \uf05c  1 7 D , 7, 2 2 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0de  1 3 \u02c6 \u02c6 \u02c6 ",
+        "context": "AC (Page 3)"
+    },
+    {
+        "type": "text",
+        "content": "i 4j k 2 2 \uf03d\uf02d \uf02b \uf02b \uf075\uf075\uf075\uf072     \uf0de  \uf0b6 \uf028 \uf029 \u02c6 \u02c6 \u02c6 2i 3j 5k 1 3 \u02c6 \u02c6 \u02c6 ",
+        "context": "AD (Page 3)"
+    },
+    {
+        "type": "text",
+        "content": "i 4j k 2 2 38 \uf02b \uf02b \uf0e6 \uf0f6 \uf0d7 \uf03d\uf02d \uf02b \uf02b \uf0d7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf075\uf075\uf075\uf072  =  37 2 38   C D B(\u20132, 8, 0) B(1, 3, 2) 4.  Consider the relations R1 and R2 defined as aR1b \uf0db a2 + b2 = 1 for all a, b \uf0ce R and   (a, b)R2(c, d) \uf0db a + d = b + c for all (a, b), (c, d) \uf0ce N \uf0b4 N. Then    (1) R1 and R2 both are equivalence relations      (2) only R1 is an equivalence relation    (3) only R2 is an equivalence relation      (4) neither R1 nor R2 is an equivalence relation    Ans.  (3)  Sol.  a2 + a2 = 1 \uf0de  1 a 2 \uf03d\uf0b1  \uf05c (a, a) \uf0cf R1 \uf022 a \uf0ce R \uf05c R1 is not reflexive    \uf05c R1 is not equivalence relation    a + b = b + a \uf0de (a, b), (a, b) \uf0ce R2 \uf05c R2 is reflexive    If (a, b) R2 (c, d) \uf0de a + d = b + c    \uf05c If a + d = b + c \uf0de c + b = d +a \uf0de (c, d) R2 (a, b) \uf05c R2 is symmetric    For transitive if we need to see it (a, b) R2 (c, d) and (c, d) R2 (e, f) \uf0de (a, b) R2 (e, f)    If (a, b) R2 (c, d) \uf0de a + d = b + c  \u2026.. (1)    If (c, d) R2 (e, f) \uf0de c + f = d + e  \u2026.. (2)    Adding equation (1) + (2), we get a + f = b + e \uf0de (a, b) R2 (e, f)    \uf05c R2 is transitive \uf0de R2 is equivalence relation  5.  Let the system of equations x + 2y + 3z = 5, 2x + 3y + z = 9, 4x + 3y + \uf06cz = \uf06d have  infinite number of solutions. Then \uf06c + 2\uf06d is equal to:    (1) 22  (2) 17    (3) 15  (4) 28    Ans.  (2)  Sol.  D = 0 \uf0de  1 2 3 2 3 1 0 4 3 \uf03d \uf06c  \uf0de  \uf06c = \u201313    Dx = 0 \uf0de  5 2 3 9 3 1 0 3 13 \uf03d \uf06d \uf02d  \uf0de \uf06d = 15    \uf05c \uf06c + 2\uf06d = 17   JEE-MAIN-2024 (1st February-Second Shift)-MPC-4  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  6.  If  3 4 0 cos xdx a b 3 \uf070 \uf03d\uf070\uf02b \uf0f2 , where a and b are rational numbers, then 9a + 8b is equal to:    (1) 2  (2) 1    (3) 3  (4) 3 2   Ans.  (1)  Sol.  2 3 0 1 cos2x dx 2 \uf070 \uf02b \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0f2  \uf0de  2 1 1 cos 2x 2cos2x dx 4 \uf02b \uf02b \uf0f2     =  3 0 1 3 cos4x 3x sin4x sin2x 2cos2x dx 4 2 2 8 32 4 \uf070 \uf02b \uf02b \uf03d \uf02b \uf02b \uf0f2     =  7 3 8 64 \uf070\uf02b  \uf0de  1 7 a , b 8 64 \uf03d \uf03d     \uf0de 9a + 8b = 9 7 2 8 8 \uf02b \uf03d   *7.  Let \uf061 and \uf062 be the roots of the equation px2 + qx \u2013 r = 0, where p \uf0b9 0. If p, q and r be the  consecutive terms of a non constant G.P. and 1 1 3 4 \uf02b \uf03d \uf061 \uf062 , then the value of (\uf061 \u2013 \uf062)2 is:    (1) 8  (2) 9    (3) 20 3   (4) 80 9     Ans.  (4)  Sol.  Let common ratio of G.P. be R    \uf05c \uf061, \uf062 are roots of px2 + pRx \u2013 pR2 = 0    \uf05c \uf061 + \uf062 = \u2013R ; \uf061\uf062 = \u2013R2    1 1 3 4 \uf02b \uf03d \uf061 \uf062  \uf0de  3 4 \uf061\uf02b\uf062\uf03d \uf061\uf062  \uf0de 1 3 R 4 \uf03d  \uf0de  4 R 3 \uf03d     (\uf061 \u2013 \uf062)2 = (\uf061 + \uf062)2 \u2013 4\uf061\uf062 = R2 + 4R2 = 5P2 =  15 80 5 9 9 \uf0b4 \uf03d     8.  Let Ajay will not appear in JEE exam with probability p = 2 7 , while both Ajay and Vijay  will appear in the exam with probability q = 1 5 . Then the probability, that Ajay will appear  in the exam and Vijay will not appear is:    (1)  9 35   (2)  3 35     (3) 24 35   (4) 18 35     Ans.  (4)  Sol.  Let A denote the event of AJAY appearing in JEE exam and B denote the event of  VIJAY appearing in JEE exam   JEE-MAIN-2024 (1st February-Second Shift)-MPC-5  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    Given  \uf028 \uf029 2 ",
+        "context": "AD AC (Page 3)"
+    },
+    {
+        "type": "text",
+        "content": "7 \uf03d  \uf0de  \uf028 \uf029 1 ",
+        "context": "P A (Page 5)"
+    },
+    {
+        "type": "text",
+        "content": "B 5 \uf0c7 \uf03d     We need to find  \uf028 \uf029 ",
+        "context": "P A (Page 5)"
+    },
+    {
+        "type": "text",
+        "content": "B \uf0c7     \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 5 1 ",
+        "context": "P A (Page 5)"
+    },
+    {
+        "type": "text",
+        "content": "B ",
+        "context": "P A (Page 5)"
+    },
+    {
+        "type": "text",
+        "content": "B 7 5 \uf0c7 \uf03d \uf03d \uf0c7 \uf03d \uf02d  \uf0de 18 35   *9.  Let P be a point on the ellipse  2 2 x y 1 9 4 \uf02b \uf03d. Let the line passing through P and parallel to  y-axis meet the circle x2 + y2 = 9 at point Q such that P and Q are on the same side of  the x-axis. Then, the eccentricity of the locus of the point R and PQ such that   PR : RQ = 4 : 3 as P moves on the ellipse, is:    (1) 13 21   (2)  139 23     (3)  13 7   (4) 11 19     Ans.  (3)  Sol.  P(3 cos \uf071, 2 sin \uf071)    Line passing through P and parallel to y-axis is x = 3 cos \uf071    \uf05c Q(3 cos \uf071, 3 sin \uf071)    Let R be (h, k)    \uf0de  12cos 9cos h 7 \uf071\uf02b \uf071 \uf03d  \uf0de  12sin 6sin k 7 \uf071\uf02b \uf071 \uf03d     \uf05c Locus  2 2 2 2 7x 7y 1 21 18 \uf02b \uf03d    \uf05c 182 = 212 (1 \u2013 e2) \uf0de  2 2 17 e 21 \uf031 \uf03d  \uf0de  17 13 e 21 7 \uf031 \uf03d \uf03d   *10.  Consider 10 observations x1, x2, \u2026, x10 such that  \uf028 \uf029 10 i i 1 x 2 \uf03d \uf02d\uf061\uf03d \uf0e5  and  \uf028 \uf029 10 2 i i 1 x 40 \uf03d \uf02d\uf062 \uf03d \uf0e5 ,  where \uf061, \uf062 are positive integers. Let the mean and the variance of the observations be  6 5  and 84 25  respectively. Then \uf062 \uf061 is equal to:    (1) 2  (2) 1    (3) 5 2   (4) 3 2     Ans.  (1)  Sol.  10 i i 1 x 2 10 x 0.2 10 10 \uf03d \uf02b \uf061 \uf03d \uf03d \uf03d \uf02b\uf061 \uf0e5     \uf0de 0.2 + \uf061 = 1.2 \uf0de \uf061 = 1    \uf028\uf029 2 2 i 2 x x 10 \uf073 \uf03d \uf02d \uf0e5  \uf0de  \uf028 \uf029 2 84 40 10 2 2 10 36 25 10 25 \uf02d \uf062\uf02b\uf062 \uf02b \uf061 \uf03d \uf02d     \uf0de 5\uf0622 \u2013 12\uf062 + 4 = 0 \uf0de \uf062 = 2   JEE-MAIN-2024 (1st February-Second Shift)-MPC-6  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  11.  let \uf0a6(x) = |2x2 + 5|x| \u2013 3|, x \uf0ce R. If m and n denote the number of points where \uf0a6is not  continuous and not differentiable respectively, then m + n is equal to:    (1) 5  (2) 3    (3) 2  (4) 0    Ans.  (2)  Sol.  Let g(x) = 2x2 + 5x \u2013 3 = (2x \u2013 1)(x + 3)  \uf05c Graph of y = f(x) = |g(|x|)| is    Graph of y = g(x) is               It is continuous everywhere     \uf05c m = 0    It is non differentiable at  1 x 2 \uf03d\uf02d ,  1 x 2 \uf03d  and x = 0    \uf05c n = 3  *12.  The number of solutions of the equation 4sin2x \u2013 4cos3x + 9 \u2013 4cosx = 0; x \uf0ce [\u2013 2\uf070, 2\uf070]  is:    (1) 0  (2) 3    (3) 1  (4) 2    Ans.  (1)  Sol.  Let cos x = t \uf0de 4t3 + 4t2 + 4t \u2013 13 = 0 where t \uf0ce [\u20131, 1]    Let f(t) = 4t3 + 4t2 + 4t \u2013 13    f\uf0a2(t) = 12t2 + 8t + 4 > 0 \uf022 t \uf0ce R    \uf05c f(t) is always increasing    f(\u20131) = \u20134 + 4 \u2013 4 \u2013 13 = \u201317    f(1) = 4 + 4 + 4 \u2013 13 = \u20131    \uf05c For t \uf0ce [\u20131, 1] f(t) is never 0  *13.  Let the locus of the midpoints of the chords of the circle x2 + (y \u2013 1)2 = 1 drawn from the  origin intersect the line x + y = 1 at P and Q. Then, the length of PQ is:    (1) 1 2   (2) 1    (3)  1 2   (4)  2     Ans.  (3)   JEE-MAIN-2024 (1st February-Second Shift)-MPC-7  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  Let the midpoint of chord be (h, k)    \uf05c Equation of chord is T = S1    \uf0de hx + ky \u2013 (y + k) = h2 + k2 \u2013 2k    \uf051 It passes through (0, 0) \uf05c \u2013k = h2 + k2 \u2013 2k    \uf05c Locus is x2 + y2 \u2013 y = 0    For P and Q (1 \u2013 y)2 + y2 \u2013 y = 0    \uf0de 2y2 \u2013 3y + 1 = 0 \uf0de y = 1, 1 2         \uf05c x = 0,  1 x 2 \uf03d     \uf05c P(0, 1) and  1 1 Q , 2 2 \uf0e6 \uf0f6 \uf03d\uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf05c  1 ",
+        "context": "P A (Page 5)"
+    },
+    {
+        "type": "text",
+        "content": "2 \uf03d     14.  Let \uf061 be a non-zero real number. Suppose \uf0a6 : R \uf0ae R is a differentiable function such  that f(0) = 2 and  xlim f(x) 1 \uf0ae\uf02d\uf0a5 \uf03d. If \uf0a6\uf0a2(x) = \uf061\uf0a6(x) + 3, for all x \uf0ce R, then \uf0a6(\u2013 loge2) is equal   to _______.    (1) 7  (2) 9    (3) 3  (4) 5    Ans.  (2)  Sol.  dy y 3 dx \uf03d\uf061\uf02b  \uf0de  dy dx y 3 \uf03d \uf061\uf02b \uf0f2 \uf0f2  \uf0de 1 ln 2 3 \uf061\uf02b \uf061  = x + c    \uf0de ln |\uf061y + 3| = \uf061(x + c),    at x = 0, y = 2     \uf0de ln|2\uf061 + 3| = \uf061c \uf0de  1 c ln 2 3 \uf03d \uf061\uf02b \uf061     \uf0de 1 1 ln y 3 x ln 2 3 \uf061\uf02b \uf03d \uf02b \uf061\uf02b \uf061 \uf061      \uf0de ln|\uf061y + 3| = \uf061x + ln|2\uf061 + 3| \uf0de  x y 3 e 2 3 \uf061 \uf061\uf02b \uf03d \uf061\uf02b     \uf0de \uf061y + 3 = (2\uf061 + 3)e\uf061x as x \uf0ae \u2013\uf0a5, y = 1 \uf0de \uf061 + 3 = 0 \uf0de \uf061 = \u20133    \uf0de \u20133y + 3 = \u20133e\u20133x \uf0de \u2013y + 1 = \u2013e\u20133x \uf0de y = 1 + e\u20133x    At  2 e x log \uf03d\uf02d ;  2 e 3log y 1 e 9 \uf03d \uf02b \uf03d   15.  Let P and Q be the points on the line x 3 y 4 z 1 8 2 2 \uf02b \uf02d \uf02b \uf03d \uf03d  which are at a distance of 6  units from the point R(1, 2, 3). If the centroid of the triangle PQR is (\uf061, \uf062, \uf067), then   \uf0612 + \uf0622 + \uf0672 is:    (1) 18  (2) 24    (3) 26  (4) 36    Ans.  (1)  Sol.  Any point on the line is (8\uf06c \u2013 3, 2\uf06c + 4, 2\uf06c \u2013 1)    It distance from R (1, 2, 3) is 6 units    \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 2 2 2 8 4 2 2 2 4 6 \uf06c\uf02d \uf02b \uf06c\uf02b \uf02b \uf06c\uf02d \uf03d     \uf0de 72\uf06c2 \u2013 72\uf06c + 36 = 36 \uf0de \uf06c = 0, 1   JEE-MAIN-2024 (1st February-Second Shift)-MPC-8  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    \uf05c P(\u20133, 4, \u20131) and Q(5, 6, 1)    Centroid (1, 4, 1) \uf05c \uf0612 + \uf0622 + \uf0672 = 1 + 16 + 1 = 18  16.  The value of  \uf028 \uf029 1 1 3 2 3 0 2x 3x x 1 dx \uf02d \uf02d \uf02b \uf0f2  is equal to:    (1) \u2013 1  (2) 2    (3) 0  (4) 1    Ans.  (3)  Sol.  Let  \uf028 \uf029 1 1 3 2 3 0 I 2x 3x x 1 dx \uf03d \uf02d \uf02d \uf02b \uf0f2     Using the property  \uf028\uf029 \uf028 \uf029 b b a a f x dx f a b x dx \uf03d \uf02b \uf02d \uf0f2 \uf0f2     \uf0de  \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 1 1 3 2 3 a I 2 1 x 3 1 x 1 x 1 dx \uf03d \uf02d \uf02d \uf02d \uf02d \uf02d \uf02b \uf0f2 = \uf028 \uf029 1 1 3 2 3 a 2x 3x x 1 dx I \uf02d \uf02b \uf02b \uf02d \uf03d\uf02d \uf0f2     \uf0de I = 0     17.  If the mirror image of the point P(3, 4, 9) in the line x 1 y 1 z 2 3 2 1 \uf02d \uf02b \uf02d \uf03d \uf03d  is (\uf061, \uf062, \uf067), then   14 (\uf061 + \uf062 + \uf067) is:    (1) 102  (2) 138    (3) 132  (4) 108    Ans.  (4)  Sol.  Any point on the line x 1 y 1 z 2 3 2 1 \uf02d \uf02b \uf02d \uf03d \uf03d  is    Q(3\uf06c + 1, 2\uf06c \u2013 1, \uf06c + 2)    D.R of PQ (3\uf06c \u2013 2, 2\uf06c \u2013 5, \uf06c \u2013 7)    PQ is perpendicular to line 3(3\uf06c \u2013 2) + 2(2\uf06c \u2013 5) + \uf06c \u2013 7 = 0    \uf0de 14\uf06c \u2013 23 = 0 \uf0de  23 14 \uf06c\uf03d     P(3, 4, 0) Q P\uf0a2    \uf05c  83 32 51 Q , , 14 14 14 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf05c Image  62 4 12 P , , 7 7 7 \uf0e6 \uf0f6 \uf0a2 \uf02d \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf05c 14(\uf061 + \uf062 + \uf067) = 108  *18.  Let Sn denote the sum of the first n terms of an arithmetic progression. If S10 = 390 and  the ratio of the tenth and the fifth terms is 15 : 7, then S15 \u2013 S5 is equal to:    (1) 800  (2) 890    (3) 790  (4) 690    Ans.  (3)  Sol.  S[2a + 9d] = 390 \uf0de 2a + 9d = 78    a 9d 15 a 4d 7 \uf02b \uf03d \uf02b  \uf0de 8a \u2013 3d = 0 \uf0de a = 3 \uf0de d = 8    \uf05c  \uf05b \uf05d \uf05b \uf05d 15 5 15 5 S S 6 112 6 32 790 2 2 \uf02d \uf03d \uf02b \uf02d \uf02b \uf03d    JEE-MAIN-2024 (1st February-Second Shift)-MPC-9  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  *19.  Let m and n be the coefficients of seventh and thirteenth terms respectively in the  expansion of   18 1 3 2 3 1 1 x 3 2x \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf02b \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 . Then  1 3 n m \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 is:    (1) 1 9   (2) 1 4     (3) 4 9   (4) 9 4     Ans.  (4)  Sol.  6 12 18 12 1 1 n C 3 2 \uf0e6 \uf0f6\uf0e6 \uf0f6 \uf03d \uf0e7 \uf0f7 \uf0e7 \uf0f7\uf0e8 \uf0f8 \uf0e8 \uf0f8  ;  12 6 18 6 1 1 m C 3 2 \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf03d \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e8 \uf0f8     \uf05c  6 6 n 3 m 2 \uf03d  \uf0de  1 3 n 9 m 4 \uf0e6 \uf0f6 \uf03d \uf0e7 \uf0f7 \uf0e8 \uf0f8   20.  Let \uf0a6(x) = x 1,x is even, 2x, x is odd, \uf02d \uf0ec \uf0ed \uf0ee  x \uf0ce N. If for some a \uf0ce N, \uf0a6(\uf0a6(\uf0a6(a))) = 21, then  3 x a x x lim a a \uf02d \uf0ae \uf0ec \uf0fc \uf0ef \uf0ef \uf0e9\uf0f9 \uf02d \uf0ed \uf0fd \uf0ea\uf0fa \uf0eb\uf0fb \uf0ef \uf0ef \uf0ee \uf0fe ,  where [t] denotes the greatest integer less than or equal to t, is equal to:    (1) 169  (2) 121    (3) 225  (4) 144    Ans.  (4)  Sol.  \uf028\uf029 x 1 ; x is even f x 2x ; x is odd \uf02d \uf0ec \uf03d\uf0ed \uf0ee     If a is even f(f(a)) = f(a \u2013 1) = 2(a \u2013 1)    \uf05c f(f(f(a))) = 2(a \u2013 1) \u2013 1 \uf0de 2a \u2013 3    \uf0de 2a \u2013 3 = 21 \uf0de a = 12    If a is odd f(f(a)) = f(2a) = 2a \u2013 1    f(f(f(a))) = 2(2a \u2013 1) thus not possible    \uf05c  3 x 12 x x lim a a \uf02d \uf0ae \uf0e9\uf0f9 \uf02d\uf0ea\uf0fa \uf0eb\uf0fb = 144    ",
+        "context": "PQ (Page 7)"
+    },
+    {
+        "type": "text",
+        "content": "  (Numerical Answer Type)    This section contains 10 Numerical based questions. The answer to each question is rounded off to the  nearest integer value.  *21.  Three points O(0, 0), P(a, a2), Q(\u2013 b, b2), a > 0, b > 0, are on the parabola y = x2. Let S1  be the area of the region bounded by the line PQ and the parabola, and S2 be the area  of the triangle OPQ. If the minimum value of  1 2 S S  is m n , gcd(m, n) = 1, then m + n is equal  to ________.    Ans.  7   JEE-MAIN-2024 (1st February-Second Shift)-MPC-10  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  Equation of PQ = y \uf02d a2 =  2 2 a b a b \uf02d \uf02b (x \uf02d a)    \uf0de (a \uf02d b) x \uf02d y + ab = 0    \uf05c S1 =  \uf028 \uf029 \uf028 \uf029 a 2 b a b x ab x dx \uf02d \uf02d \uf02b \uf02d \uf0f2           = \uf028 \uf029\uf028 \uf029 \uf028 \uf029 2 2 2 a b a b ab a b ab 2 3 \uf0e6 \uf0f6 \uf02d \uf02b \uf02d \uf02b \uf02b \uf02d \uf0e7 \uf0f7 \uf0e8 \uf0f8    (\u2013b, b2)Q P(a, a2) O(0, 0)     S2 =  \uf028 \uf029 1ab a b 2 \uf02b     \uf05c  \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 2 2 2 2 1 2 a b a b ab ab S a b 1 a b 2 3 2 S ab / 2 3ab 3 b a \uf02d \uf02b \uf02d \uf02b \uf02d \uf02b \uf0e6 \uf0f6 \uf03d \uf03d \uf03d \uf02b \uf02b \uf0e7 \uf0f7 \uf0e8 \uf0f8    \uf05c minimum value of  1 2 S S  is 4 a b 2 3 b a \uf0e6 \uf0f6 \uf02b \uf0b3 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf051  \uf05c m + n = 7  22.  The sum of squares of all possible values of k, for which area of the region bounded by  the parabolas 2y2 = kx and ky2 = 2(y \u2013 x) is maximum, is equal to _______.    Ans.  8  Sol.    2 2 k 1 2 1 y x and y x 2 k k 2k \uf02d \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf03d \uf02d \uf03d \uf02d \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e8 \uf0f8    For point of intersection      2 2 2 2 2k ky 2 y y y 0 and y k k 4 \uf0e6 \uf0f6 \uf03d \uf02d \uf0de \uf03d \uf03d \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf02b     \uf05c Area bounded  \uf028 \uf029 2 2k 2 2 2 k 4 2 2 2 0 2 2y ky 2y 2k 2 dy 16 2 k 3 k 4 3 k 8 k \uf02b\uf0e6 \uf0f6 \uf02d \uf02d \uf03d \uf03d \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e6 \uf0f6 \uf02b \uf02b \uf02b \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0f2     For maximum area we have to minimize  2 2 16 k 8 k \uf02b \uf02b       2 2 2 2 16 k 16 k 4 k 8 2 k \uf02b \uf0b3 \uf0de \uf02b \uf0b3     It holds for k = \uf0b1 2  23.  If y = \uf028 \uf029\uf028 \uf029 2 x 1 x x 1 15 x x x x \uf02b \uf02d \uf02b \uf02b \uf02b (3cos2x \u2013 5)cos3x, then 96y\uf0a26 \uf070 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8  is equal to ______.    Ans.  105  Sol.    2 2 5 3 x x x x x cos x cos x y 5 3 x x x x \uf02d \uf02b \uf02d \uf03d \uf02b \uf02d \uf02b \uf02b       \uf028 \uf029\uf028 \uf029 5 3 x 1 x x x x cos x cos x y 5 3 x x x x \uf02d \uf02b \uf02b \uf03d \uf02b \uf02d \uf02b \uf02b       4 2 dy 1 cos x sinx cos x sinx dx \uf03d \uf02d \uf02b    JEE-MAIN-2024 (1st February-Second Shift)-MPC-11  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    \uf05c at x =  dy 9 3 35 , 1 6 dx 32 8 32 \uf070 \uf03d \uf02d \uf02b \uf03d     \uf05c 96y' 6 \uf070 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 = 105  24.  If  2 dx 1 x y dy y \uf02b \uf02d \uf03d , x(1) = 1, then 5x(2) is equal to_________.    Ans.  5  Sol.    dx x 1 y dy y y \uf02d \uf03d \uf02d     Integrating factor =  1dy y 1 e y \uf02d\uf0f2 \uf03d     \uf05c  2 2 x 1 1 dy x 1 y cy y y \uf0e6 \uf0f6 \uf03d \uf02d \uf0de \uf03d\uf02d\uf02d \uf02b \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0f2     at y = 1, x = 1  \uf05c c = 3  \uf05c x = \uf02d1 \uf02d y2 + 3y    at y = 2, x = \uf02d1 \uf02d 4 + 6 = 1    \uf05c 5x(2) = 5  25.  Let \uf0a6: (0, \uf0a5) \uf0ae R and F(x) =  x 0 tf(t)dt \uf0f2 . If F(x2) = x4 + x5, then  \uf028\uf029 12 2 r 1 f r \uf03d\uf0e5  is equal   to ________.    Ans.  219  Sol.    F(x2) =  \uf028\uf029 2 x 0 t f t dt \uf0f2     Differentiating both sides w.r.t. x      F'(x2) \uf0b4 2x = x2 f(x2) \uf0b4 2x    \uf0de f(x2) = 2 + 5 x 2     \uf05c  \uf028 \uf029 12 12 2 r 1 r 1 5 5 12 13 f r 2 r 24 219 2 2 2 \uf03d \uf03d \uf0b4 \uf03d \uf02b \uf03d \uf02b \uf0b4 \uf03d \uf0e5 \uf0e5   *26.  Let ABC be an isosceles triangle in which A is at (\u2013 1, 0), \uf0d0A = 2 3 \uf070, AB = AC and B is on  the positive x-axis. If BC = 4 3  and the line BC intersects the line y = x + 3 at (\uf061, \uf062),  then  4 2 \uf062 \uf061 is _______ .    Ans.  36   JEE-MAIN-2024 (1st February-Second Shift)-MPC-12  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  Let AB = AC = x    Using sine rule      ",
+        "context": "SECTION - B (Page 9)"
+    },
+    {
+        "type": "text",
+        "content": "sin30 sin120 \uf03d \uf0b0 \uf0b0    \uf0de 2x = 4 3 3 / 2  \uf0de x = 4   C \uf070/6 \uf070/6 2\uf070/3 A(\u20131, 0) B   \uf05c B(3, 0)    Equation of BC         y \uf02d 0 = \uf02d \uf028 \uf029 1 x 3 x 3y 3 0 3 \uf02d \uf0de \uf02b \uf02d \uf03d     Put y = x + 3 \uf0de x x 3 3 3 0 \uf02b \uf02b \uf02d \uf03d                     \uf0de  \uf028 \uf029 3 1 3 6 x , y 3 1 3 1 \uf02d \uf03d \uf03d \uf02b \uf02b     \uf05c  \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 2 4 2 4 2 1296 3 1 36 3 1 9 1 3 \uf062 \uf02b \uf03d \uf03d \uf061 \uf02b \uf0b4 \uf02d   27.  Let A = \uf0492 \u2013 2 MMT, where M is a real matrix of order 2 \uf0b4 1 such that the relation MTM = \uf0491  holds. if \uf06c is a real number such that the relation AX = \uf06cX holds for some non-zero real  matrix X of order 2 \uf0b4 1, then the sum of squares of all possible values of \uf06c is equal to  __________.    Ans.  2  Sol.  Let A = I2 \uf02d 2MMT     M is real matrix 2 \uf0b4 1 order    Let M = a b \uf0e9\uf0f9 \uf0ea\uf0fa \uf0eb\uf0fb         a, b \uf0ce R    \uf0de  \uf05b \uf05d 2 T 2 a a ab ",
+        "context": "BC (Page 12)"
+    },
+    {
+        "type": "text",
+        "content": "ab b ab b \uf0e9 \uf0f9 \uf0e9\uf0f9 \uf03d \uf03d\uf0ea \uf0fa \uf0ea\uf0fa \uf0eb\uf0fb \uf0ea \uf0fa \uf0eb \uf0fb     MTM = [a2 + b2] = [1]  \uf0de a2 + b2 = 1    Now, I2 \uf02d 2MMT =  2 2 1 2a 2ab A 2ab 1 2a \uf0e9 \uf0f9 \uf02d \uf02d \uf03d \uf0ea \uf0fa \uf02d \uf02d \uf0ea \uf0fa \uf0eb \uf0fb     Now, (A \uf02d \uf06cI) X = 0    \uf0de  2 1 2 2 x 1 2a 2ab 0 x 2ab 1 2b \uf0e9 \uf0f9 \uf02d\uf06c\uf02d \uf02d \uf0e9 \uf0f9\uf03d \uf0ea \uf0fa\uf0ea \uf0fa \uf02d \uf02d\uf06c\uf02d \uf0ea \uf0fa\uf0eb \uf0fb \uf0eb \uf0fb     Since, X is non zero real matrix     2 2 1 2a 2ab 0 2ab 1 2b \uf0e9 \uf0f9 \uf02d\uf06c\uf02d \uf02d \uf03d \uf0ea \uf0fa \uf02d \uf02d\uf06c\uf02d \uf0ea \uf0fa \uf0eb \uf0fb     \uf0de (1 \uf02d \uf06c)2 \uf02d 2(1 \uf02d \uf06c) (b2 + a2) = 0, \uf0de (1 \uf02d \uf06c) [1 \uf02d \uf06c \uf02d 2] = 0      \uf06c = \uf0b1 1  28.  Let  \u02c6 \u02c6 \u02c6 a i j k \uf03d\uf02b\uf02b \uf072 ,  \u02c6 \u02c6 \u02c6 b i 8j 2k \uf03d\uf02d\uf02d \uf02b \uf072  and  2 3 \u02c6 \u02c6 \u02c6 c 4i c j c k \uf03d \uf02b \uf02b \uf072  be three vectors such that b a c a \uf0b4 \uf03d \uf0b4 \uf072 \uf072 \uf072 \uf072 .  If the angle between the vector c \uf072  and the vector \u02c6 \u02c6 \u02c6 3i 4j k \uf02b \uf02b  is \uf071, then the greatest integer  less than or equal to tan2\uf071 is _______ .   JEE-MAIN-2024 (1st February-Second Shift)-MPC-13  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Ans.  38  Sol.  b a c a \uf0b4 \uf03d \uf0b4 \uf072 \uf072 \uf072 \uf072 \uf0de \uf028 \uf029 c b a 0 \uf02d \uf0b4 \uf03d \uf072 \uf072 \uf072     \uf0de c b \uf02d \uf072 \uf072  is parallel to a\uf072 \uf0de c b a \uf03d \uf02b\uf06c \uf072 \uf072 \uf072    \uf0de  \uf028 \uf029 \uf028 \uf029 \uf028 \uf029 2 3 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 \u02c6 4i c j c k 1 i 8 j 2 k \uf02b \uf02b \uf03d\uf06c\uf02d \uf02b\uf06c\uf02d \uf02b\uf06c\uf02b     \uf0de \uf06c = 5 \uf05c c2 = \u20133, c3 = 7    \uf05c  \u02c6 \u02c6 \u02c6 c 4i 3j 7k \uf03d \uf02d \uf02b \uf072     cos 74 26 \uf071\uf03d  \uf0de  1875 tan 7 \uf071\uf03d  \uf0de  2 1875 tan 38.26 49 \uf071\uf03d \uf03d   *29.  If three successive terms of a G.P. with common ratio r(r > 1) are the lengths of the sides  of a triangle and [r] denotes the greatest integer less than or equal to r, then 3[r] + [\u2013 r] is  equal to _____     Ans.  1  Sol.  Let the length of the sides of a triangle are a, ar, ar2    \uf0de a + ar > ar2 \uf0de r2 \u2013 r \u2013 1 < 0 \uf0de  1 5 r 1, 2 \uf0e6 \uf0f6 \uf02b \uf0ce\uf0e7 \uf0f7 \uf0e8 \uf0f8    \uf0de [r] = 1 and [\u2013r] = \u20132 \uf0de 3[r] + [\u2013r] = 3 + (\u20132) = 1    *30.  The lines L1, L2, \u2026\u2026, L20 are distinct. For n = 1, 2, 3, \u2026., 10 all the lines L2n \u2013 1 are  parallel to each other and all the lines L2n pass through a given point P. The maximum  number of points of intersection of pairs of lines from the set {L1, L2, \u2026\u2026., L20} is equal  to ______ .    Ans.  101  Sol.  Maximum number of point of intersection will occur if the point of concurrency of L2n  does not lie on the lines L2n \u2013 1 and none of these of the lines from L2n is parallel to L2n \u2013 1    Then number of point of intersection will be     (No. of ways of choosing 1 line from L2n) \uf0b4 (No. of ways of choosing 1 line from L2n \u2013 1) +  1 point of concurrency of L2n    = 10 10 1 1 C C 1 101 \uf0b4 \uf02b \uf03d          JEE-MAIN-2024 (1st February-Second Shift)-MPC-14  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  PART \u2013 B (PHYSICS)  ",
+        "context": "MM (Page 12)"
+    },
+    {
+        "type": "text",
+        "content": "  (One Options Correct Type)    This section contains 20 multiple choice questions. Each question has four choices (1), (2), (3) and  (4), out of which ONLY ONE option is correct.     31.  From the statements given below:    (A) The angular momentum of an electron in nth orbit is an integral multiple of \uf068.    (B) Nuclear forces do not obey inverse square law.    (C) Nuclear forces are spin dependant.    (D) Nuclear forces are central and charge independent.    (E) Stability of nucleus is inversely proportional to the value of packing fraction.    Choose the correct answer from the options given below:     (1) (B), (C), (D), (E) only  (2) (A), (C), (D), (E) only    (3) (A), (B), (C), (E) only  (4) (A), (B), (C), (D) only    Ans.  (3)    Sol.  Theoretical    *32.  A body of mass 4 kg experience two forces  \uf024 \uf024 1 2 5 8 7 3 4 3 F i j k and F i j k \uf03d \uf02b \uf02b \uf03d \uf02d \uf02d \uf075\uf075\uf072 \uf075\uf075\uf072 \uf024 \uf024 \uf024 \uf024 . The  acceleration acting on the body is:    (1)  \uf024 2i j k \uf02b\uf02b \uf024 \uf024   (2)  \uf024 4 2 2 i j k \uf02b \uf02b \uf024 \uf024     (3)  \uf024 2i j k \uf02d \uf02d\uf02d \uf024 \uf024   (4)  \uf024 2 3 3 i j k \uf02b \uf02b \uf024 \uf024     Ans.  (1)    Sol.  net 1 2 \u02c6 \u02c6 \u02c6 F F F 8i 4 j 4k \uf03d \uf02b \uf03d \uf02b \uf02b \uf072 \uf072 \uf072     net F \u02c6 \u02c6 \u02c6 a 2i j k m \uf03d \uf03d \uf02b\uf02b \uf072 \uf072     33.  Monochromatic light of frequency  14 6 10 Hz \uf0b4 is produced by a laser. The power emitted is  3 2 10 W \uf02d \uf0b4 . How many photons per second on an average are emitted by the source?    (1)  15 5\u00d710   (2)  16 7\u00d710     (3)  15 6\u00d710   (4)  18 9\u00d710     Ans.  (1)    Sol.  n(per second) =  15 P 5 10 hr \uf03d \uf0b4      JEE-MAIN-2024 (1st February-Second Shift)-MPC-15  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  34.  C1 and C2 are two hollow concentric cubes enclosing charges 2Q and  3Q respectively as shown in figure. The ratio of electric flux passing  through C1 and C2 is:    (1) 3 : 2  (2) 5 : 2    (3) 2 : 5  (4) 2 : 3    3Q 2Q     Ans.  (3)    Sol.  1 2 c c Q 2Q 2 Q 2Q 3Q 5 \uf03d \uf03d \uf02b     35.  A galvanometer (G) of 2\uf057resistance is connected in the given  circuit. The ratio of charge stored in  1 2 C and C is:    (1) 1  (2) 2 3     (3) 3 2   (4) 1 2     G 4 \uf057 ",
+        "context": "SECTION - A (Page 14)"
+    },
+    {
+        "type": "text",
+        "content": "4 F \uf06d 6 \uf057 6 F \uf06d 6V  ",
+        "context": "C1 (Page 15)"
+    },
+    {
+        "type": "text",
+        "content": "    Ans.  (4)     Sol.  1 2 1 1 2 2 Q ",
+        "context": "C2 (Page 15)"
+    },
+    {
+        "type": "text",
+        "content": "4(3) 1 Q ",
+        "context": "C V (Page 15)"
+    },
+    {
+        "type": "text",
+        "content": "6(4) 2 \uf03d \uf03d \uf03d .    36.  Match List-I with List-II.      List-I  List-II      (Number)  (Significant figure)      (A) 1001  (I) 3    (B) 010.1  (II) 4    (C) 100.100  (III) 5    (D) 0.0010010  (IV) 6    Choose the correct answer from the options given below:    (1) (A)-(II), (B)-(I), (C)-(IV), (D)-(III)  (2) (A)-(IV), (B)-(III), (C)-(I), (D)-(II)    (3) (A)-(I), (B)-(II), (C)-(III), (D)-(IV)  (4) (A)-(III), (B)-(IV), (C)-(II), (D)-(I)    Ans.  (1)    Sol.  Theoretical     *37.  A big drop is formed by coalescing 1000 small droplets of water. The surface energy will  become:    (1)  1 th 100   (2) 1 th 10     (3) 100 times  (4) 10 times    Ans.  (2)     JEE-MAIN-2024 (1st February-Second Shift)-MPC-16  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  2 2 2 1 E 4 (10R) T 1 E 10 1000(4 )R T \uf070 \uf070 \uf0b4 \uf03d \uf03d \uf0b4     *38.  A cricket player catches a ball of mass 120g moving with 25 m/s speed. If the catching  process is completed in 0.1 s then the magnitude of force exerted by the ball on the  hand of player will be (in SI unit):    (1) 30  (2) 24    (3) 12  (4) 25    Ans.  (1)     Sol.  F =  P 30N t \uf044 \uf03d \uf044     39.   In a metre-bridge when a resistance in the left gap is 2\u03a9  and unknown resistance in the  right gap, the balance length is found to be 40 cm. On shunting the unknown resistance  with 2\u03a9 , the balance length changes by:    (1) 62.5 cm  (2) 22.5 cm    (3) 20 cm  (4) 65 cm    Ans.  (2)    Sol.  2 X 40 60 \uf03d     X = 3 \uf057    2 6 / 5 100 \uf03d \uf0a2 \uf0a2 \uf02d \uf06c \uf06c,  \uf0a2\uf06c = 62.5 cm,  \uf044\uf06c = 22.5 cm.    *40.  A diatomic gas \uf028 \uf029 1 4. \uf067\uf03d  does 200 J of work when it is expanded isobarically. The heat  given to the gas in the process is:    (1) 800 J  (2) 600 J    (3) 700 J  (4) 850 J    Ans.  (3)     Sol.  P P nC T C Q 7 w nR T R 2 \uf044 \uf03d \uf03d \uf03d \uf044     Q = 700 J     *41.  Train A is moving along two parallel rail tracks towards north with speed 72 km/h and  train B is moving towards south with speed 108 km/h. Velocity of train B with respect to  A and velocity of ground with respect  to B are (in ms\u20131):    (1) \u201350 and \u201330  (2) \u201350 and 30    (3) \u201330 and 50  (4) 50 and \u201330    Ans.  (2)     Sol.  ",
+        "context": "C V (Page 15)"
+    },
+    {
+        "type": "text",
+        "content": "B A v V V \uf03d \uf02d \uf072 \uf072 \uf072     VBA =  \uf02d30 \u2013 20 (taking north direction as positive)   JEE-MAIN-2024 (1st February-Second Shift)-MPC-17  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.       = \uf02d50 m/s.    ",
+        "context": "BA (Page 16)"
+    },
+    {
+        "type": "text",
+        "content": "V V \uf03d\uf02d \uf072 \uf072  = 30 m/s     *42.  A light planet is revolving around a massive star in a circular orbit of radius R with a  period of revolution T. If the force of attraction between planet and star is proportional to  32 R \uf02d then choose the correct option:    (1)  7 2 2 T R \uf061   (2)  2 3 T R \uf061     (3)  5 2 2 T R \uf061   (4)  3 2 2 T R \uf061     Ans.  (3)    Sol.  2 3/2 mv GMm R R \uf03d     V =  1/2 ",
+        "context": "BG (Page 17)"
+    },
+    {
+        "type": "text",
+        "content": "R     2 R T V \uf070 \uf03d  =  5/4 2 R ",
+        "context": "GM (Page 17)"
+    },
+    {
+        "type": "text",
+        "content": "\uf070     43.  A microwave of wavelength 2.0 cm falls normally on a slit of width 4.0 cm. The angular  spread of the central maxima of the diffraction pattern obtained on a screen 1.5 m away  from the slit, will be:    (1)  o 60   (2)  o 45     (3)  o 15   (4)  o 30   Ans.  (1)  Sol.  a sin \uf020\uf071 = \uf06c    \uf071 = 300      Angular speed = 2\uf071 = 600    *44.  If the root mean square velocity of hydrogen molecule at a given temperature and  pressure is 2 km/s, the root mean square velocity of oxygen at the same condition in  km/s is:    (1) 1.0  (2) 1.5    (3) 2.0  (4) 0.5    Ans.  (4)    Sol.  Vrms =  0 3RT M     Vrms)o2 = \uf028 \uf029 rms 2 V H 0.5 km / s 4 \uf03d     45.  If frequency of electromagnetic wave is 60 MHz and it travels in air along z direction then  the corresponding electric and magnetic field vectors will be mutually perpendicular to  each other and the wavelength of the wave (in m) is :    (1) 2.5  (2) 5    (3) 10  (4) 2  Ans.  (2)   JEE-MAIN-2024 (1st February-Second Shift)-MPC-18  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    Sol.  C = \uf067 \uf06c    \uf06c = 5m    46.  To measure the temperature coefficient of resistivity \uf061 of a  semiconductor, an electrical arrangement show in the figure  is prepared. The arm BC is made up of the semiconductor.  The experiment is being conducted at  o 25 C  and resistance  of the semiconductor arm is 3m\u03a9 . Arm BC is cooled at a  constant rate of  o 2 C/s . If the galvanometer G shows no  deflection after 10 s, then \uf061 is:    G 0.8m \uf057 3m \uf057 B V=5mV A  C  1m \uf057 D      (1)  -2 o -1 -1\u00d710 C   (2)  -2 o -1 -2\u00d710 C     (3)  -2 o -1 -2.5\u00d710 C   (4)  -2 o -1 -1.5\u00d710 C     Ans.  (1)     Sol.  3 1 2 4 R R R R \uf03d     \uf044R = R\uf061\uf044T    0.8 x 1 3 \uf03d     x = 2.4 m\uf057    \uf044x = -0.6 m\uf057    x T x \uf061 \uf044 \uf03d \uf044    \uf061 =  \uf02d1 \uf0b4 10-2 0C-1     47.  Conductivity of a photodiode starts changing only if the wavelength of incident light is  less than 660 nm. The band gap of photodiode is found to be X eV 8 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 . The value of X is:    (Given,    -34 -19 h = 6.6\u00d710 Js, e = 1.6\u00d710 C ) .    (1) 11  (2) 13    (3) 15  (4) 21    Ans.  (3)     Sol.  hc Xe 8 \uf06c\uf03d     X = 15    48.  A transformer has an efficiency of 80% and work at 10 V and 4 kW. If the secondary  voltage is 240 V, then the current in the secondary coil is:    (1) 1.33 A  (2) 13.33 A    (3) 1.59 A  (4) 15.1 A  Ans.  (2)   Sol.  P \uf0b4 0.8 =VSIS .    IS = 13.33 A     JEE-MAIN-2024 (1st February-Second Shift)-MPC-19  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  49.  In an ammeter, 5% of the main current passes through the galvanometer. If resistance of  the galvanometer is G, the resistance of ammeter will be:    (1) 199 G  (2) 200 G    (3)  G 200   (4)  G 199     Ans.  (none)    Sol.  G 95 X 9 \uf03d     X = G/19    R = GX G G X 20 \uf03d \uf02b     *50.   A disc of radius R and mass M is rolling horizontally  without slipping with speed \uf06e, it then moves up an  inclined smooth surface as shown in figure. The  maximum height that the disc can go up the incline is:  \uf06e h     (1)  2 3 4 g \uf06e  (2)  2 g \uf06e    (3)  2 2 3 g \uf06e  (4)  2 1 2 g \uf06e    Ans.  (4)     Sol.  2 1mv mgh 2 \uf03d  (Rotational K.E. remains constant)     H =  2 v 2g     ",
+        "context": "GM (Page 17)"
+    },
+    {
+        "type": "text",
+        "content": "  (Numerical Answer Type)    This section contains 10 Numerical based questions. The answer to each question is rounded off to the  nearest integer value.      *51.  A mass m is suspended from a spring of negligible mass and the system oscillates with  a frequency  1f . The frequency of oscillation if a mass 9 m is suspended from the same  spring is  2f . The value of   1 2 f f  is_________.    Ans.  3    Sol.  1 k f 2 m \uf03d \uf070    JEE-MAIN-2024 (1st February-Second Shift)-MPC-20  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    1 2 f 9m 3 f m \uf03d \uf03d     52.  In an electrical circuit drawn below the amount of charge stored  in the capacitor is _______ C. \uf06d     4 \uf057 5 \uf057  + 10 F \uf06d ",
+        "context": "SECTION - B (Page 19)"
+    },
+    {
+        "type": "text",
+        "content": "10 V  \u2013 ",
+        "context": "R1 (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "C  ",
+        "context": "R2 (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "6 \uf057     Ans.  60     Sol.  At steady state     10 I 1A 4 6 \uf03d \uf03d \uf02b     V = 6V     Q = 60 \uf06dC     *53.  A particle initially at rest starts moving from reference point x = 0 along x \u2013 axis, with  velocity \uf06e that varies as  4 x m / s \uf06e\uf03d . The acceleration of the particle is __________  ms-2    Ans.  8    Sol.  a = Vdv dx      =  1 (4 x) 4 2 x \uf0e6 \uf0f6 \uf0b4 \uf0e7 \uf0f7 \uf0e8 \uf0f8      = 8 m/s2     54.  Suppose a uniformly charged wall provides a uniform electric field of  4 2\u00d710 N/C   normally. A charged particle of mass 2 g being suspended through a silk thread of length  20 cm and remain stayed at a distance of 10 cm from the wall. Then the charge on the  particle will be 1 C x \uf06d  where  2 10 x ______. use g m / s \uf0e9 \uf0f9 \uf03d \uf03d \uf0eb \uf0fb.  Ans.  3  Sol.  tan \uf071 = qE mg     Q =  3 4 1 mg 1 2 10 10 E 2 10 3 3 \uf02d \uf0b4 \uf0b4 \uf03d \uf0b4  = 1 C 3 \uf06d     55.  A moving coil galvanometer has 100 turns and each turn has an area of 2.0 cm2. The  magnetic field produced by the magnet is 0.01 T and the deflection in the coil is 0.05  radian when a current of 10 mA is passed through it. The torsional constant of the  suspension wire is  5 10 x N m / rad \uf02d \uf0b4 \uf02d . The value of x is ________  Ans.  4   JEE-MAIN-2024 (1st February-Second Shift)-MPC-21  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  G\uf071 = nIAB     N \uf0b4 10-5 \uf0b4 0.05 = 100 \uf0b4 10-2 \uf0b4 2 \uf0b410-4 \uf0b4 0.01    N = 4     *56.  One end of a metal wire is fixed to a ceiling and a load of 2 kg hangs from the other end.  A similar wire is attached to the bottom of the load and another load of 1 kg hangs from  this lower wire. Then the ratio of longitudinal strain of upper wire to that of the lower wire  will be _______     [Area of cross section of wire = 0.005 cm2,  11 2 2 2 10 10 Y Nm and g m / s \uf02d \uf02d \uf03d \uf0b4 \uf03d ].  Ans.  3  Sol.  \uf065 = T A\uf067    1 1 2 2 T 3 T \uf065 \uf065 \uf03d \uf03d     57.  In Young\u2019s double slit experiment, monochromatic light of wavelength  o 5000\u0391  is used.  The slits are 1.0 mm apart and screen is placed at (1)0 m away from slits. The distance  from the centre of the screen where intensity becomes half of the maximum intensity for  the first time is _________  6 10\uf02d \uf0b4 m.  Ans.  125  Sol.  I = Imax cos2  dy D \uf070 \uf06c     Y = 125 \uf0b4 10-6  m    58.  A coil of 200 turns and area 0.20 m2 is rotated at half a revolution per second and is  placed in uniform magnetic field of 0.01 T perpendicular to axis of rotation of the coil.  The maximum voltage generated in the coil is 2 \u03b2 \uf070volt. The value of \u03b2 is __________.    Ans.  5  Sol.  \uf065max = nBA\uf077     = 0.4 \uf070    \uf062 = 5    *59.  A uniform rod AB of mass 2 kg and length 30 cm at rest on a smooth horizontal surface.  An impulse of force 0.2 Ns is applied to end B. The time taken by the rod to turn through  at right angles will be  s, x \uf070 where x = ___________.  Ans.  4  Sol.  2 J m 2 12 \uf077 \uf03d \uf06c \uf06c     2 x \uf03d \uf070 \uf070 \uf077     x = 4     JEE-MAIN-2024 (1st February-Second Shift)-MPC-22  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  60.  A particular hydrogen-like ion emits the radiation of frequency  15 3 10 Hz \uf0b4 when it makes  transition from n = 2 to n = 1. The frequency of radiation emitted in transition from n = 3  to n = 1 is  15 10 9 x Hz \uf0b4 , when x = ________.    Ans.  32    Sol.  h\uf06e = 13.6 z2  2 2 1 2 1 1 n n \uf0e6 \uf0f6 \uf02d \uf0e7 \uf0f7 \uf0e8 \uf0f8     15 2 15 2 1 x 1 10 9 3 1 3 10 1 2 \uf02d \uf0b4 \uf03d \uf0b4 \uf02d .    x = 32     JEE-MAIN-2024 (1st February-Second Shift)-MPC-23  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  PART \u2013 C (CHEMISTRY)  ",
+        "context": "R3 (Page 20)"
+    },
+    {
+        "type": "text",
+        "content": "  (One Options Correct Type)    This section contains 20 multiple choice questions. Each question has four choices (1), (2), (3) and  (4), out of which ONLY ONE option is correct.     *61.  In the given reactions identify A and B      ",
+        "context": "SECTION - A (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "Pd/C H2 + A C = C H H ",
+        "context": "C2H5 (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "    3 Na/LiquidNH 3 3 2 ",
+        "context": "CH3 (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "C C ",
+        "context": "CH (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "H \"B\" \uf02d \uf0ba \uf02d \uf02b \uf0be\uf0be\uf0be\uf0be\uf0be\uf0ae     (1) A : n \u2013 Pentane  B : Cis \u2013 2 \u2013 butene   (2) A : 2 \u2013 Pentyne  B : Cis \u2013 2 \u2013 butene     (3) A : n \u2013 Pentane  B : trans \u2013 2 \u2013 butene   (4) A : 2 \u2013 Pentyne  B : trans \u2013 2 \u2013 butene     Ans.  (4)  Sol.  3 2 3 A ",
+        "context": "CH (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "C C ",
+        "context": "CH (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "\uf03d \uf02d \uf0ba \uf02d \uf02d     C C C ",
+        "context": "CH (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "H ",
+        "context": "H3 (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "H B \uf03d     A will produce cis alkene and Na/Liquid NH3 gives trans alkene.      *62.  Solubility of calcium phosphate (molecular mass, M) in water is Wg per 100 mL at 25\u00b0C.  Its solubility product at 25\u00b0C will be approximately.    (1)  3 7 W 10 M \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8          (2)  5 3 W 10 M \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8      (3)  5 7 W 10 M \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8          (4)  5 5 W 10 M \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8     Ans.  (3)  Sol.  w S 10 / L M \uf03d \uf0b4     \uf028 \uf029\uf028\uf029 3 4 4 2 Ca ",
+        "context": "CH3 (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "s 3Ca 2PO 3S 2S \uf02b\uf02b \uf02d\uf02d\uf02d \uf02b \uf02d \uf088\uf088\uf088\uf086 \uf087\uf088\uf088\uf088     \uf028 \uf029\uf028 \uf029 \uf028\uf029 5 5 3 2 3 2 5 7 4 W W Ksp Ca ",
+        "context": "PO (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "3S 2S 104 S 104 10 10 M M \uf02b\uf02b \uf02d\uf02d\uf02d \uf0e6 \uf0f6 \uf0e6 \uf0f6 \uf0e9 \uf0f9\uf0e9 \uf0f9 \uf03d \uf03d \uf03d \uf0b4 \uf03d \uf0b4 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0eb \uf0fb\uf0eb \uf0fb \uf0e8 \uf0f8 \uf0e8 \uf0f8 \uf03b     *63.  Given below are two statements:    Statement (I): SiO2 and GeO2 are acidic while SnO and PbO are amphoteric in nature.  Statement (II): Allotropic forms of carbon are due to preprety of catenation and p d \uf070\uf02d\uf070  bond formation.     JEE-MAIN-2024 (1st February-Second Shift)-MPC-24  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  In the light of the above statements, choose the most appropriate answer from the  options given below:    (1) Statement I is false but Statement II is true    (2) Both Statement I and Statement II are false  (3) Both Statement I and Statement II are true    (4) Statement I is true but Statement II is false    Ans.  (4)    *64.  The set of meta directing functional groups from the following sets is:    (1)  2 3 CN, NH , NHR, ",
+        "context": "PO (Page 23)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf02d \uf02d \uf02d      (2)  3 CN, CHO, NHCOCH , COOR \uf02d \uf02d \uf02d \uf02d      (3)  2 2 NO , NH , COOH, COOR \uf02d \uf02d \uf02d \uf02d     (4)  2 3 NO , CHO, SO H, COR \uf02d \uf02d \uf02d \uf02d     Ans.  (4)     65.  3 3 3 6 3 [Co(NH ) ] and[CoF ] \uf02b \uf02d are respectively known as:    (1) Inner orbital complex, spin paired complex    (2) Spin paired complex, spin free complex     (3) Spin free complex, spin paired complex   (4) Outer orbital complex, inner orbital complex  Ans.  (2)  Sol.  NH3 is strong ligand while F\u2013 is weak ligand.     66.  The transition metal having highest 3rd ionisation enthalpy is:    (1) Mn           (2) Fe     (3) Cr           (4) V    Ans.  (1)    Sol.  \uf028 \uf029 \uf05b \uf05d 2 5 Mn 25 Ar ,4s , 3d \uf03d     \uf05b \uf05d 0 5 5 Mn Ar 4s ,3d ,d \uf02b\uf02b\uf03d  is stable due to half filled subshell.    67.  Match List-I with List-II  List-I Compound  List-II Use  (A)  Carbon tetrachloride  (I)  Paint remover  (B)  Methylene chloride  (II)  Refrigerators and air  conditioners  (C)  ",
+        "context": "OCH (Page 24)"
+    },
+    {
+        "type": "text",
+        "content": "(III)  Fire extinguisher  (D)  Freons  (IV)  Non Biodegradable insecticide  Choose the correct answer from the options given below:    (1) (A) \u2013 (II), (B) \u2013 (III), (C) \u2013 (I), (D) \u2013 (IV)  (2) (A) \u2013 (III), (B) \u2013 (I), (C) \u2013 (IV), (D) \u2013 (II)     (3) (A) \u2013 (I), (B) \u2013 (II), (C) \u2013 (III), (D) \u2013 (IV)  (4) (A) \u2013 (IV), (B) \u2013 (III), (C) \u2013 (II), (D) \u2013 (I)     Ans.  (2)     JEE-MAIN-2024 (1st February-Second Shift)-MPC-25  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  68.  Match List-I with List-II  List-I Reactants  List-II Product  (A)  Phenol, Zn / \uf044  (I)  Salicylaldehyde  (B)  Phenol,  3 CHCl ,NaOH,HCl  (II)  Salicylic acid  (C)  Phenol, CO2, NaOH, HCl  (III)  Benzene  (D)  Phenol, Conc. HNO3  (IV)  Picric acid  Choose the correct answer from the options given below:    (1) (A) \u2013 (IV), (B) \u2013 (I), (C) \u2013 (II), (D) \u2013 (III)  (2) (A) \u2013 (III), (B) \u2013 (I), (C) \u2013 (II), (D) \u2013 (IV)     (3) (A) \u2013 (IV), (B) \u2013 (II), (C) \u2013 (I), (D) \u2013 (III)  (4) (A) \u2013 (III), (B) \u2013 (IV), (C) \u2013 (I), (D) \u2013 (II)     Ans.  (2)    69.  Given below are two statements:    Statement (I): Dimethyl glyoxime forms a six-membered covalent  chelate when treated  with NiCl2 solution in presence of NH4OH.  Statement (II): Prussian blue precipitate contains iron both in (+2) and (+3) oxidation  states.   In the light of the above statements, choose the most appropriate answer from the  options given below:    (1) Statement I is false but Statement II is true    (2) Both Statement I and Statement II are true  (3) Statement I is true but Statement II is false    (4) Both Statement I and Statement II are false    Ans.  (1)    70.  H3O+ alc. KOH C2H5Br A Br2 CCl4 B ",
+        "context": "DDT (Page 24)"
+    },
+    {
+        "type": "text",
+        "content": "Excess C Excess D   Acid D formed in above reaction is:    (1) Malonic acid        (2) Oxalic acid     (3) Succinic acid        (4) Gluconic acid   Ans.  (3)  Sol.  | | 2 2 2 2 Br Br A ",
+        "context": "KCN (Page 25)"
+    },
+    {
+        "type": "text",
+        "content": "CH , B ",
+        "context": "CH (Page 25)"
+    },
+    {
+        "type": "text",
+        "content": "C H , \uf03d \uf03d \uf03d \uf02d ",
+        "context": "C H (Page 25)"
+    },
+    {
+        "type": "text",
+        "content": "C= ,     ",
+        "context": "CN (Page 25)"
+    },
+    {
+        "type": "text",
+        "content": "D =     71.  Lassaigne\u2019s test is used for detection of:    (1) Phosphorous and halogens only       (2) Nitrogen, sulphur and phosphorus only     (3) Nitrogen, sulphur, phosphorus and halogens      (4) Nitrogen and sulphur only    Ans.  (3)    72.  The strongest reducing agent among the following is:    (1) SbH3          (2) NH3     (3) BiH3          (4) PH3  Ans.  (3)   JEE-MAIN-2024 (1st February-Second Shift)-MPC-26  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    73.  Given below are two statements: one is labelled as Assertion (A) and the other is  labelled as Reason (R)    Assertion (A): In aqueous solutions  2 Cr \uf02b is reducing while  3 Mn \uf02bis oxidising in nature.    Reason (R): Extra stability to half filled electronic configuration is observed than  incompletely filled electronic configfurations.    In the light of the above statements, choose the most appropriate answer from the  options given below.     (1) (A) is true but (R) is false       (2) Both (A) and (R) are true and (R) is the correct explanation of (A)      (3) Both (A) and (R) are true but (R) is not the correct explanation of (A)    (4) (A) is false but (R) is true    Ans.  (2)      *74.  The functional group that shows negative resonance effect is:    (1) \u2013OH          (2) \u2013OR     (3) \u2013COOH          (4) \u2013NH2    Ans.  (3)    *75.  The number of radial node/s for 3p orbital is:    (1) 3            (2) 2     (3) 1            (4) 4    Ans.  (3)    Sol.  Radial node  \uf028 \uf029 \uf028 \uf029 n 1 3 1 1 1 \uf03d \uf02d \uf02d \uf03d \uf02d\uf02d \uf03d \uf06c     *76.  Which among the following has highest boiling point?    (1)  3 2 2 2 ",
+        "context": "COOH (Page 25)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d       (2)  3 2 2 3 ",
+        "context": "OH (Page 26)"
+    },
+    {
+        "type": "text",
+        "content": "  (3)  3 2 2 ",
+        "context": "CH CH CH CH (Page 26)"
+    },
+    {
+        "type": "text",
+        "content": "      (4)  5 2 2 5 ",
+        "context": "CH CH CH CHO (Page 26)"
+    },
+    {
+        "type": "text",
+        "content": "O ",
+        "context": "H C (Page 26)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf02d     Ans.  (1)    Sol.  Due to H-bonding     *77.  Given below are two statements:    Statement (I): A \uf070 bonding MO has lower electron density above and below the inter- nuclear axis.   Statement (II): The  * \uf070 antibonding MO has a node between the nuclei.   In the light of the above statements, choose the most appropriate answer from the  options given below:    (1) Both Statement I and Statement II are true    (2) Both Statement I and Statement II are false  (3) Statement I is true but Statement II is false    (4) Statement I is false but Statement II is true    Ans.  (4)     JEE-MAIN-2024 (1st February-Second Shift)-MPC-27  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  78.  Given below are two statements:    Statement (I): Both metals and non-metals exist in p and d-block elements.    Statement (II): Non-metals have higher ionisation enthalpy and higher electronegativity  than the metals.    In the light of the above statements, choose the most appropriate answer from the  options given below.    (1) Both statement I and statement II are false    (2) Both statement I and statement II are true     (3) Statement I is false but statement II is true    (4) Statement I is true but statement II is false     Ans.  (3)    79.  Which of the following compounds show colour due to d-d transition?    (1)  2 2 7 K Cr O           (2)  4 2 CuSO .5H O     (3)  4 KMnO           (4)  2 4 K CrO     Ans.  (2)    *80.  Select the compound from the following that will show intramolecular hydrogen bonding.    (1)    ",
+        "context": "C H (Page 26)"
+    },
+    {
+        "type": "text",
+        "content": "        (2)  2 ",
+        "context": "OH (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "  (3)  2 5 ",
+        "context": "H O (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "        (4)  3 ",
+        "context": "C H OH (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "  Ans.  (1)  ",
+        "context": "NH (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "  (Numerical Answer Type)    This section contains 10 Numerical based questions. The answer to each question is rounded off to the  nearest integer value.    81.  The number of tripeptides formed by three different amino acids using each amino acid  once is ___.    Ans.  6    82.  Mass of ethylene glycol (antifreeze) to be added to 18.6 kg of water to protect the  freezing point at \u201324\u00b0C is _________ kg (Molar mass in g mol\u20131 for ethylene glycol 62, Kf  of water = 1.86 K kg mol\u20131)    Ans.  15  Sol.  f K w 1000 1.86 w 1000 T ,24 , w 14.88kg ",
+        "context": "SECTION - B (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "62 18.6 1000 \uf0b4 \uf0b4 \uf0b4 \uf0b4 \uf044 \uf03d \uf03d \uf03d \uf0b4 \uf0b4     *83.  Total  number  of  isomeric  compounds  (including  stereoisomers)  formed  by  monochlorination of 2-methylbutane is ___________ .    Ans.  6   JEE-MAIN-2024 (1st February-Second Shift)-MPC-28  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.    Sol.  \uf028\uf029 \uf028\uf029 3 3 2 2 | ",
+        "context": "MW (Page 27)"
+    },
+    {
+        "type": "text",
+        "content": "Cl 1 ",
+        "context": "CH (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf02d \uf02d \uf02d     \uf028\uf029 \uf028 \uf029 3 | 3 3 | * Cl ",
+        "context": "CH (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "1 1 ",
+        "context": "CH (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf02d \uf02d \uf02b       \uf028\uf029 \uf028\uf029 3 | 3 2 3 | Cl ",
+        "context": "CH (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "C ",
+        "context": "III CH (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "1 ",
+        "context": "CH (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf02d \uf02d     \uf028 \uf029 \uf028 \uf029 3 | * 2 2 3 | Cl ",
+        "context": "CH (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "1 1 ",
+        "context": "CH (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf02d \uf02d \uf02b     84.  The following data were obtained during the first order thermal decomposition of a gas A  at constant volume:    A(g) 2B(g) C(g) \uf0ae \uf02b     S. No.   Time/s   Total pressure/(atm)       (1)       0      0.1       (2)     115      0.28    The rate constant of the reaction is __________ \u00d7 10\u20132 s\u20131 (nearest integer)    Ans.  2    Sol.  \uf028 \uf029 x x x A 2B C 0.1 0 0 t 0 0.1 P 2P P t 115 sec \uf0ae \uf02b \uf03d \uf02d \uf03d     According to question     x x x 0.28 0.1 P 2P P \uf03d \uf02d \uf02b \uf02b     \uf028 \uf029 x 0.28 0.1 P 0.09 2 \uf02d \uf03d \uf03d     \uf028 \uf029 2 2.303 0.1 K log 2 10 115 0.1 0.09 \uf02d \uf03d \uf03d \uf0b4 \uf02d         *85.  For a certain reaction at 300K, K = 10, then G \uf044\uf0b0 for the same reaction is ________  1 1 10 kJmol \uf02d \uf02d \uf0b4 . (Given R = 8.314 JK\u20131 mol\u20131)    Ans.  57  Sol.  0 1 2.303 8.314 300 log10 G 2.303RTlogK 5.74 57.4 10 kJ / mol 1000 \uf02d \uf0b4 \uf0b4 \uf0b4 \uf044 \uf03d\uf02d \uf03d\uf02d \uf03d \uf03d \uf0b4     86.  The amount of electricity in Coulomb required for the oxidation of 1 mol of H2O to O2 is  ____  5 10 C \uf0b4 .    Ans.  2   JEE-MAIN-2024 (1st February-Second Shift)-MPC-29  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  Sol.  2 2 1 ",
+        "context": "CH (Page 28)"
+    },
+    {
+        "type": "text",
+        "content": "O 2H 2e 2 \uf02b \uf02d \uf0ae \uf02b \uf02b     5 2 96500 193000C 1.93 10 \uf0b4 \uf03d \uf03d \uf0b4     1.93 \uf0bb 2    *87.  Following Kjeldahl\u2019s method, 1g of organic compound released ammonia, that  neutralised 10 mL of 2M  2 4 H SO . The percentage of nitrogen in the compound is  _______ %.    Ans.  56  Sol.  1.4 10 2 2 %N 56 1 \uf0b4 \uf0b4 \uf0b4 \uf03d \uf03d     88.  Consider the following redox reaction:    2 4 2 2 4 2 2 MnO H ",
+        "context": "H O (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "Mn ",
+        "context": "H C O (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf02b \uf02b \uf02b \uf02b \uf02b \uf02b \uf088\uf088\uf088\uf086 \uf087\uf088\uf088\uf088     The standard reduction potentials are given as below (Ered):    2 4 o MnO /Mn E 1.51 V \uf02d \uf02b\uf03d\uf02b     2 2 2 4 o CO /H C O E 0.49 V \uf03d\uf02d     If the equilibrium constant of the above reaction is given as  x eq K 10 , \uf03d then the value of   x = _______ (nearest integer)    Ans.  338  Sol.  \uf028 \uf029 0 0 0 cell c A E E E 0.49 1.51 \uf03d \uf02d \uf03d\uf02d \uf02d     0 cell 0.0591 0 E logK n \uf03d \uf02d     0 cell eq 0.0591 E log K 10 \uf03d     eq 0.0591 2 log K 10 \uf02d\uf03d     338 eq K 10 \uf03d     x = 338    89.  Number of compounds which give reaction with Hinsberg\u2019s reagent is __________ .      2 N Cl \uf02b \uf02d O ",
+        "context": "CO (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "O ",
+        "context": "NH (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "    N I N ",
+        "context": "NH (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "  N | H 2 2 O || ",
+        "context": "NH2 (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "\uf02d \uf02d ",
+        "context": "C NH (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "N   Ans.  5     JEE-MAIN-2024 (1st February-Second Shift)-MPC-30  FIITJEE Ltd., FIITJEE House, 29-A, Kalu  Sarai, Sarvapriya Vihar, New Delhi -110016, Ph 46106000, 26569493, Fax 26513942  website: www.fiitjee.com.  *90.  10 mL of gaseous hydrocarbon on combustion gives 40 mL of CO2(g) and 50 mL of  water vapour. Total number of carbon and hydrogen atoms in the hydrocarbon   is __________.  Ans.  14  Sol.  2 2 2 y y CxHy x O xCO ",
+        "context": "NH2 (Page 29)"
+    },
+    {
+        "type": "text",
+        "content": "4 2 10 10x \uf0e6 \uf0f6 \uf02b \uf02b \uf0be\uf0be\uf0ae \uf02b \uf0e7 \uf0f7 \uf0e8 \uf0f8     10x 40 \uf03d     x = 4    10y 50 2 \uf03d     y 10 \uf03d     4 10 ",
+        "context": "H O (Page 30)"
+    },
+    {
+        "type": "text",
+        "content": "  x y 4 10 14 \uf02b \uf03d \uf02b \uf03d    ",
+        "context": "C H (Page 30)"
+    }
+]
